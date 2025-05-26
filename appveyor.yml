@@ -5,8 +5,14 @@ image: Ubuntu
 skip_branch_with_pr: true
 
 init:
-  - sh: IMAGE_NAME="oll/archive-automation-dev:latest"
-  - sh: CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+  - sh: >-
+      if [[ $DEVELOPMENT == "True" ]]; then
+      :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-dev:latest"
+      :; CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      else
+      :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
+      :; CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      fi
 
 before_build:
   - sh: >-
