@@ -6,6 +6,7 @@ skip_branch_with_pr: true
 
 init:
   - sh: >-
+      echo $IS_DEVELOPMENT
       if [[ $IS_DEVELOPMENT == "True" ]]; then
       :; IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest"
       :; CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
