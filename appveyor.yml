@@ -23,7 +23,7 @@ before_build:
   - sh: >-
       docker login --username tiberlas --password $GH_TOKEN ghcr.io
   - sh: >-
-      docker pull $IMAGE_NAME
+      docker pull ghcr.io/tiberlas/archive-automation-dev:latest
 
 build_script:
   - sh: >-
