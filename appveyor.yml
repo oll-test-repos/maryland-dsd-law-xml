@@ -5,13 +5,13 @@ image: Ubuntu
 skip_branch_with_pr: true
 
 before_build:
-  - sh: >-
+  - sh: |
       if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-      :;  IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest"
-      :;  CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+        IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest"
+        CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
       else
-      :;  IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
-      :;  CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+        IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
+        CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
       fi
   - sh: >-
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
