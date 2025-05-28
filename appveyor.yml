@@ -22,8 +22,6 @@ before_build:
       fi
   - sh: >-
       docker login --username tiberlas --password $GH_TOKEN ghcr.io
-  - sh: >-
-      docker pull "${IMAGE_NAME}"
 
 build_script:
   - sh: >-
