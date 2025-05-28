@@ -6,8 +6,8 @@ skip_branch_with_pr: true
 
 init:
   - sh: >-
-      if [[ $DEVELOPMENT == "True" ]]; then
-      :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-dev:latest"
+      if [[ $IS_DEVELOPMENT == "True" ]]; then
+      :; IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest"
       :; CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
       else
       :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
@@ -15,10 +15,6 @@ init:
       fi
 
 before_build:
-  - sh: >-
-      if ! docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
-      :;  echo "> IMAGE '$IMAGE_NAME' DOES NOT EXIST.";
-      fi
   - sh: >-
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
       :;  if [[ "$(docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME")" == "running" ]]; then
@@ -29,20 +25,29 @@ before_build:
       :;    docker rm $CONTAINER_NAME;
       :;  fi
       fi
+  - sh: >-
+      docker login --username tiberlas --password GH_TOKEN ghcr.io
+      docker pull $IMAGE_NAME
 
 build_script:
   - sh: >-
       docker run --rm \
         -e GH_SSH_PRIVATE_KEY="${GH_SSH_PRIVATE_KEY}" \
+        -e TIMESTAMP_KEY=$TIMESTAMP_KEY \
+        -e SNAPSHOT_KEY=$SNAPSHOT_KEY \
         -e APPVEYOR_REPO_NAME="${APPVEYOR_REPO_NAME}" \
         -e APPVEYOR_REPO_COMMIT="${APPVEYOR_REPO_COMMIT}" \
         -e PIP_INDEX_URL="${PIP_INDEX_URL}" \
         -e PIP_EXTRA_INDEX_URL="${PIP_EXTRA_INDEX_URL}" \
         -e PLATFORM_BRANCH="${PLATFORM_BRANCH}" \
+        -e FUSE_BRANCH="${FUSE_BRANCH}" \
         -e CLIENT_ID="${CLIENT_ID}" \
         -e TENANT_ID="${TENANT_ID}" \
         -e CLIENT_SECRET="${CLIENT_SECRET}" \
         -e PREPARE_BUILD_COMMAND="${PREPARE_BUILD_COMMAND}" \
+        -e IS_PUBLISH="${IS_PUBLISH}" \
+        -e YUBIKEY_PIN=$YUBIKEY_PIN \
+        --device=/dev/ttyUSB0 \
         --name "${CONTAINER_NAME}" --cap-add SYS_ADMIN --privileged "${IMAGE_NAME}"
 
 on_finish:
