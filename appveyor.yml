@@ -7,11 +7,11 @@ skip_branch_with_pr: true
 init:
   - sh: >-
       if [[ $IS_DEVELOPMENT == "True" ]]; then
-      :; IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:lates"
-      :; CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      :;  IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:lates"
+      :;  CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
       else
-      :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
-      :; CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      :;  IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
+      :;  CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
       fi
 
 before_build:
@@ -24,6 +24,10 @@ before_build:
       :;    echo "> CONTAINER ${CONTAINER_NAME} ALREADY EXISTS; REMOVING IT";
       :;    docker rm $CONTAINER_NAME;
       :;  fi
+      fi
+  - sh: >-
+      if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
+      :;  docker image rm $IMAGE_NAME
       fi
   - sh: >-
       docker login --username tiberlas --password $GH_TOKEN ghcr.io
