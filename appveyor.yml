@@ -6,8 +6,13 @@ skip_branch_with_pr: true
 
 init:
   - sh: >-
-      IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:lates"
-      CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      if [[ $IS_DEVELOPMENT == "True" ]]; then
+      :; IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:lates"
+      :; CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      else
+      :; IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
+      :; CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+      fi
 
 before_build:
   - sh: >-
@@ -50,7 +55,7 @@ on_finish:
   - sh: >-
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
       :;  docker rm $CONTAINER_NAME;
-      if
+      fi
 
 notifications:
   - provider: Slack
