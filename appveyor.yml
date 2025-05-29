@@ -4,36 +4,38 @@ image: Ubuntu
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
-before_build:
+init:
   - sh: |
       if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-        IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest"
-        CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+        IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:latest";
+        CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       else
-        IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest"
-        CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}"
+        IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
+        CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
-  - sh: >-
+
+before_build:
+  - sh: |
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
-      :;  if [[ "$(docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME")" == "running" ]]; then
-      :;    echo "> CONTAINER ${CONTAINER_NAME} IS RUNNING!";
-      :;    exit 1;
-      :;  else
-      :;    echo "> CONTAINER ${CONTAINER_NAME} ALREADY EXISTS; REMOVING IT";
-      :;    docker rm $CONTAINER_NAME;
-      :;  fi
+        if [[ "$(docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME")" == "running" ]]; then
+          echo "> CONTAINER ${CONTAINER_NAME} IS RUNNING!";
+          exit 1;
+        else
+          echo "> CONTAINER ${CONTAINER_NAME} ALREADY EXISTS; REMOVING IT";
+          docker rm $CONTAINER_NAME;
+        fi
       fi
-  - sh: >-
+  - sh: |
       if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
-      :;  docker image rm $IMAGE_NAME
+        docker image rm $IMAGE_NAME;
       fi
-  - sh: >-
+  - sh: |
       docker login --username tiberlas --password $GH_TOKEN ghcr.io
-  - sh: >-
+  - sh: |
       docker pull $IMAGE_NAME
 
 build_script:
-  - sh: >-
+  - sh: |
       docker run --rm \
         -e GH_SSH_PRIVATE_KEY="${GH_SSH_PRIVATE_KEY}" \
         -e TIMESTAMP_KEY=$TIMESTAMP_KEY \
@@ -54,9 +56,9 @@ build_script:
         --name "${CONTAINER_NAME}" --cap-add SYS_ADMIN --privileged "${IMAGE_NAME}"
 
 on_finish:
-  - sh: >-
+  - sh: |
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
-      :;  docker rm $CONTAINER_NAME;
+        docker rm $CONTAINER_NAME;
       fi
 
 notifications:
