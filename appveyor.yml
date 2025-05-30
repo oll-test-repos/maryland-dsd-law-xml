@@ -13,7 +13,7 @@ init:
         IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
-  -sh: |
+  - sh: |
       touch env.list
       echo "GH_SSH_PRIVATE_KEY" >> env.list
       echo "TIMESTAMP_KEY" >> env.list
