@@ -13,22 +13,6 @@ init:
         IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
-  - sh: |
-      touch env.list
-      echo "GH_SSH_PRIVATE_KEY" >> env.list
-      echo "TIMESTAMP_KEY" >> env.list
-      echo "SNAPSHOT_KEY" >> env.list
-      echo "APPVEYOR_REPO_NAME" >> env.list
-      echo "APPVEYOR_REPO_COMMIT" >> env.list
-      echo "PIP_INDEX_URL" >> env.list
-      echo "PIP_EXTRA_INDEX_URL" >> env.list
-      echo "PLATFORM_BRANCH" >> env.list
-      echo "FUSE_BRANCH" >> env.list
-      echo "CLIENT_ID" >> env.list
-      echo "TENANT_ID" >> env.list
-      echo "CLIENT_SECRET" >> env.list
-      echo "PREPARE_BUILD_COMMAND" >> env.list
-      echo "IS_PUBLISH" >> env.list
 
 before_build:
   - sh: |
@@ -49,6 +33,22 @@ before_build:
       docker login --username tiberlas --password $GH_TOKEN ghcr.io
   - sh: |
       docker pull $IMAGE_NAME
+  - sh: |
+      touch env.list
+      echo "GH_SSH_PRIVATE_KEY" >> env.list
+      echo "TIMESTAMP_KEY" >> env.list
+      echo "SNAPSHOT_KEY" >> env.list
+      echo "APPVEYOR_REPO_NAME" >> env.list
+      echo "APPVEYOR_REPO_COMMIT" >> env.list
+      echo "PIP_INDEX_URL" >> env.list
+      echo "PIP_EXTRA_INDEX_URL" >> env.list
+      echo "PLATFORM_BRANCH" >> env.list
+      echo "FUSE_BRANCH" >> env.list
+      echo "CLIENT_ID" >> env.list
+      echo "TENANT_ID" >> env.list
+      echo "CLIENT_SECRET" >> env.list
+      echo "PREPARE_BUILD_COMMAND" >> env.list
+      echo "IS_PUBLISH" >> env.list
 
 build_script:
   - sh: |
