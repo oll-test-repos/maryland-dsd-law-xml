@@ -7,7 +7,7 @@ skip_branch_with_pr: true
 init:
   - sh: |
       if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-        IMAGE_NAME="ghcr.io/tiberlas/archive-automation-dev:lates";
+        IMAGE_NAME="ghcr.io/tiberlas/test:latest";
         CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       else
         IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
@@ -49,6 +49,12 @@ before_build:
       echo "CLIENT_SECRET" >> env.list
       echo "PREPARE_BUILD_COMMAND" >> env.list
       echo "IS_PUBLISH" >> env.list
+  - sh: |
+      for var in $(declare -p | grep "^declare \-" | cut -d' ' -f3-); do
+        if [[ $var =~ ^PIN ]]; then
+          echo "${var}" >> env.list
+        fi
+      done
 
 build_script:
   - sh: |
@@ -62,8 +68,6 @@ on_finish:
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
         docker rm $CONTAINER_NAME;
       fi
-  - sh: |
-      rm env.list
 
 notifications:
   - provider: Slack
