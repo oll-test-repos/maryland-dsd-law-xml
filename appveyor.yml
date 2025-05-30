@@ -13,6 +13,22 @@ init:
         IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
+  -sh: |
+      touch env.list
+      echo "GH_SSH_PRIVATE_KEY" >> env.list
+      echo "TIMESTAMP_KEY" >> env.list
+      echo "SNAPSHOT_KEY" >> env.list
+      echo "APPVEYOR_REPO_NAME" >> env.list
+      echo "APPVEYOR_REPO_COMMIT" >> env.list
+      echo "PIP_INDEX_URL" >> env.list
+      echo "PIP_EXTRA_INDEX_URL" >> env.list
+      echo "PLATFORM_BRANCH" >> env.list
+      echo "FUSE_BRANCH" >> env.list
+      echo "CLIENT_ID" >> env.list
+      echo "TENANT_ID" >> env.list
+      echo "CLIENT_SECRET" >> env.list
+      echo "PREPARE_BUILD_COMMAND" >> env.list
+      echo "IS_PUBLISH" >> env.list
 
 before_build:
   - sh: |
@@ -37,21 +53,7 @@ before_build:
 build_script:
   - sh: |
       docker run --rm \
-        -e GH_SSH_PRIVATE_KEY="${GH_SSH_PRIVATE_KEY}" \
-        -e TIMESTAMP_KEY=$TIMESTAMP_KEY \
-        -e SNAPSHOT_KEY=$SNAPSHOT_KEY \
-        -e APPVEYOR_REPO_NAME="${APPVEYOR_REPO_NAME}" \
-        -e APPVEYOR_REPO_COMMIT="${APPVEYOR_REPO_COMMIT}" \
-        -e PIP_INDEX_URL="${PIP_INDEX_URL}" \
-        -e PIP_EXTRA_INDEX_URL="${PIP_EXTRA_INDEX_URL}" \
-        -e PLATFORM_BRANCH="${PLATFORM_BRANCH}" \
-        -e FUSE_BRANCH="${FUSE_BRANCH}" \
-        -e CLIENT_ID="${CLIENT_ID}" \
-        -e TENANT_ID="${TENANT_ID}" \
-        -e CLIENT_SECRET="${CLIENT_SECRET}" \
-        -e PREPARE_BUILD_COMMAND="${PREPARE_BUILD_COMMAND}" \
-        -e IS_PUBLISH="${IS_PUBLISH}" \
-        -e YUBIKEY_PIN=$YUBIKEY_PIN \
+        --env-file env.list \
         --device=/dev/ttyUSB0 \
         --name "${CONTAINER_NAME}" --cap-add SYS_ADMIN --privileged "${IMAGE_NAME}"
 
@@ -60,6 +62,8 @@ on_finish:
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
         docker rm $CONTAINER_NAME;
       fi
+  - sh: |
+      rm env.list
 
 notifications:
   - provider: Slack
