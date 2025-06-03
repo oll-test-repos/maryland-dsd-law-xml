@@ -13,8 +13,8 @@
       <static-assets>https://github.com/oll-test-repos/maryland-dsd-law-static-assets</static-assets>
       <html/>
     </canonical-urls>
+    <history-start>2025-01-01</history-start>
   </meta>
-	<history-start>2025-01-01</history-start>
   <xi:include href="./us/md/exec/comar/index.xml"/>
   <collection name="us/md/exec/register">
     <heading>Maryland Register</heading>
