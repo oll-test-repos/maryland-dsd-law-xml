@@ -14,6 +14,7 @@
       <html/>
     </canonical-urls>
   </meta>
+	<history-start>2025-01-01</history-start>
   <xi:include href="./us/md/exec/comar/index.xml"/>
   <collection name="us/md/exec/register">
     <heading>Maryland Register</heading>
