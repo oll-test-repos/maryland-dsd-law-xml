@@ -5,16 +5,18 @@ image: Ubuntu
 skip_branch_with_pr: true
 
 init:
+  # Select the correct image and container name
   - sh: |
       if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-        IMAGE_NAME="ghcr.io/tiberlas/test:latest";
+        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-dev:latest";
         CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       else
-        IMAGE_NAME="ghcr.io/openlawlibrary/archive-automation-prod:latest";
+        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-prod:latest";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
 
 before_build:
+  # Safe-Check the container name is not running.
   - sh: |
       if docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME" > /dev/null 2>&1; then
         if [[ "$(docker inspect -f '{{.State.Status}}' "$CONTAINER_NAME")" == "running" ]]; then
@@ -25,14 +27,17 @@ before_build:
           docker rm $CONTAINER_NAME;
         fi
       fi
+  # Remove the "latest" image, so it can be pulled.
   - sh: |
       if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
         docker image rm $IMAGE_NAME;
       fi
   - sh: |
-      docker login --username tiberlas --password $GH_TOKEN ghcr.io
+      docker login --username oll-bot --password $GH_DOCKER_ACCESS_TOKEN ghcr.io
+  # Pull the "latest" image
   - sh: |
       docker pull $IMAGE_NAME
+  # Dump needed environment variables to 'env.list' file, this file will be used for starting container.
   - sh: |
       touch env.list
       echo "GH_SSH_PRIVATE_KEY" >> env.list
@@ -49,6 +54,7 @@ before_build:
       echo "CLIENT_SECRET" >> env.list
       echo "PREPARE_BUILD_COMMAND" >> env.list
       echo "IS_PUBLISH" >> env.list
+  # Dump all environment variables that starts with "PIN", this is to dynamically assign yubikey pins.
   - sh: |
       for var in $(declare -p | grep "^declare \-" | cut -d' ' -f3-); do
         if [[ $var =~ ^PIN ]]; then
