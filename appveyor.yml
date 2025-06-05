@@ -8,10 +8,10 @@ init:
   # Select the correct image and container name
   - sh: |
       if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-dev:latest";
+        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-dev";
         CONTAINER_NAME="oll-archive-automation-dev-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       else
-        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-prod:latest";
+        IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-prod";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
 
@@ -28,10 +28,10 @@ before_build:
         fi
       fi
   # Remove the "latest" image, so it can be pulled.
-  - sh: |
-      if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
-        docker image rm $IMAGE_NAME;
-      fi
+  # - sh: |
+  #     if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
+  #       docker image rm $IMAGE_NAME;
+  #     fi
   - sh: |
       docker login --username oll-bot --password $GH_DOCKER_ACCESS_TOKEN ghcr.io
   # Pull the "latest" image
@@ -61,13 +61,19 @@ before_build:
           echo "${var}" >> env.list
         fi
       done
+  - sh: |
+      if [[ -n "${DOCKER_IMG_TAG}" ]]; then
+        IMAGE_TAG="${DOCKER_IMG_TAG}"
+      else
+        IMAGE_TAG="latest"
+      fi
 
 build_script:
   - sh: |
       docker run --rm \
         --env-file env.list \
         --device=/dev/ttyUSB0 \
-        --name "${CONTAINER_NAME}" --cap-add SYS_ADMIN --privileged "${IMAGE_NAME}"
+        --name "${CONTAINER_NAME}" --cap-add SYS_ADMIN --privileged "${IMAGE_NAME}:${IMAGE_TAG}"
 
 on_finish:
   - sh: |
