@@ -14,6 +14,13 @@ init:
         IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation-prod";
         CONTAINER_NAME="oll-archive-automation-prod-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
       fi
+  # SELECT THE IMAGE TAG
+  - sh: |
+      if [[ -n "${DOCKER_IMG_TAG}" ]]; then
+        IMAGE_TAG="${DOCKER_IMG_TAG}"
+      else
+        IMAGE_TAG="latest"
+      fi
 
 before_build:
   # Safe-Check the container name is not running.
@@ -28,10 +35,10 @@ before_build:
         fi
       fi
   # Remove the "latest" image, so it can be pulled.
-  # - sh: |
-  #     if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
-  #       docker image rm $IMAGE_NAME;
-  #     fi
+  - sh: |
+      if docker image inspect "${IMAGE_NAME}" > /dev/null 2>&1; then
+        docker image rm $IMAGE_NAME;
+      fi
   - sh: |
       docker login --username oll-bot --password $GH_DOCKER_ACCESS_TOKEN ghcr.io
   # Pull the "latest" image
@@ -61,12 +68,6 @@ before_build:
           echo "${var}" >> env.list
         fi
       done
-  - sh: |
-      if [[ -n "${DOCKER_IMG_TAG}" ]]; then
-        IMAGE_TAG="${DOCKER_IMG_TAG}"
-      else
-        IMAGE_TAG="latest"
-      fi
 
 build_script:
   - sh: |
