@@ -1,4 +1,4 @@
-build_cloud: Ubuntu-OLL
+build_cloud: tomoll-OptiPlex-Micro-Plus-7020
 image: Ubuntu
 
 # Do not build feature branch with open Pull Requests
