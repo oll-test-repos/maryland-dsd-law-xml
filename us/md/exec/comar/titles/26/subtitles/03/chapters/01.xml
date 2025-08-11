@@ -327,33 +327,33 @@
               </tr>
               <tr>
                 <td>Land Use</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Residential, Commercial, Light Industry</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Heavy Industry</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Agricultural and Open Space</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Mines and Quarries</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
               <tr>
                 <td>Surface Water</td>
-                <td></td>
-                <td></td>
+                <td/>
+                <td/>
               </tr>
             </tbody>
           </table>
@@ -814,7 +814,7 @@
             <th colspan="12">Table No. 6<br/>Inventory of Existing Water Treatment Facilities</th>
           </tr>
           <tr>
-            <th colspan="2" >Owner</th>
+            <th colspan="2">Owner</th>
             <th>Water Source</th>
             <th>Type Treatment</th>
             <th>Plant Coordinate Location</th>
