@@ -2230,6 +2230,2954 @@
       </container>
       <container codify:applicability="2026-03-01">
         <num>25-092-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|01|.03">
+          <section cache:ref-path="10|10|01|.03">
+            <prefix>Regulation</prefix>
+            <num>.03</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this subtitle, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>Accuracy or Accurate.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Accuracy” or “accurate” means the degree of agreement between the determination of a quantity and its true value.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Accuracy” or “accurate” includes the quality of a test result as it relates to the analytic phase of the testing process when the test result:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Conforms exactly to a standard; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Deviates only within established limits from a standard.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“Alternative sanction” means a directed plan of correction or a limitation placed on testing.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Analyte” means a substance or constituent for which a laboratory conducts testing.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Analytical system” means a test system's methods, procedures, instruments, equipment, kits, reagents, and supporting materials used to detect or measure an analyte or perform a test.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Authorized Person.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Authorized person” means an individual allowed to request a laboratory test.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Authorized person” is limited to those individuals identified under <cite path="10.10.06.02" doc="Code of Maryland Regulations">COMAR 10.10.06.02</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5-1)</num>
+                <text>“Buccal cavity” means the vestibule of the mouth, specifically the area lying between the teeth and cheeks.</text>
+              </para>
+              <para>
+                <num>(5-2)</num>
+                <text>“Buccal swab” means a specialized applicator with a sponge, cotton, or Dacron tip, used to collect epithelial cells for DNA testing by rubbing the applicator tip on the inside of the cheek in the buccal cavity.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>“Calibrator” means a material having a known value or concentration that is used to standardize an analytical system.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>“CDC” means the Centers for Disease Control and Prevention.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>“Certified analyst” means an individual who:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Meets the qualifications established under <cite path="10.10.09.01|B." doc="Code of Maryland Regulations">COMAR 10.10.09.01B</cite> and .02C; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is thereby permitted to identify marijuana or marijuana products, or both, using procedures approved under <cite path="10.10.09.04" doc="Code of Maryland Regulations">COMAR 10.10.09.04</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>“Certified chemical analyst” means an individual who:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Meets the qualifications established under <cite path="10.10.09.01|A." doc="Code of Maryland Regulations">COMAR 10.10.09.01A</cite> and .02B; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is thereby permitted to identify marijuana or marijuana products, or both, cocaine base, cocaine hydrochloride, and heroin using procedures approved under <cite path="10.10.09.04" doc="Code of Maryland Regulations">COMAR 10.10.09.04</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>“Certified chemist” means an individual who:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Meets the qualifications established under <cite path="10.10.09.01|A." doc="Code of Maryland Regulations">COMAR 10.10.09.01A</cite> and .02A; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is thereby permitted to identify any controlled dangerous substance using procedures approved under <cite path="10.10.09.04" doc="Code of Maryland Regulations">COMAR 10.10.09.04</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>“CFR” means the Code of Federal Regulations.</text>
+              </para>
+              <para>
+                <num>(12)</num>
+                <text>“CLIA” means the federal Clinical Laboratory Improvement Amendments of 1988 in Section 353 of the Public Health Service Act and any amendments to it (42 U.S.C. §263a).</text>
+              </para>
+              <para>
+                <num>(12-1)</num>
+                <text>“CLIA waived test” means a test system, assay, or examination that the federal Department of Health and Human Services has determined meets the Clinical Laboratory Improvement Amendments (CLIA) statutory criteria as specified for waiver under the federal CLIA Amendments of 1988 in Section 353 of the Public Health Service Act of 42 U.S.C. §263a.</text>
+              </para>
+              <para>
+                <num>(13)</num>
+                <text>“CMS” means the federal Centers for Medicare and Medicaid Services.</text>
+              </para>
+              <para>
+                <num>(14)</num>
+                <text>“Collection station” means a site other than a laboratory where specimens are gathered before being shipped elsewhere for laboratory testing.</text>
+              </para>
+              <para>
+                <num>(15)</num>
+                <text>“Complaint investigation” means an investigation of a laboratory, including an on-site survey, initiated in response to a complaint.</text>
+              </para>
+              <para>
+                <num>(16)</num>
+                <text>“Control sample” means a material, solution, or lyophilized preparation used in laboratory quality control, the concentration of which is within certain specified and known limits.</text>
+              </para>
+              <para>
+                <num>(17)</num>
+                <text>“Controlled dangerous substance” means any drug, substance, or immediate precursor in Schedules I through V of <cite doc="Md. Code" path="gcr">Criminal Law Article, Title 5, Subtitle 4, Annotated Code of Maryland</cite>.</text>
+              </para>
+              <para>
+                <num>(18)</num>
+                <text>“Deficiency” means a situation or finding of statutory or regulatory noncompliance.</text>
+              </para>
+              <para>
+                <num>(19)</num>
+                <text>“Department” means the Maryland Department of Health.</text>
+              </para>
+              <para>
+                <num>(20)</num>
+                <text>“Directed plan of correction” means a set of corrective actions stipulated by the Secretary that a laboratory shall implement to effect statutory or regulatory compliance.</text>
+              </para>
+              <para>
+                <num>(21)</num>
+                <text>Discipline.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Discipline” means a scientific field of study in which a laboratory is licensed to offer to perform or perform tests.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Discipline” includes:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Chemistry, including the subdisciplines of blood gas analysis, endocrinology, radioimmunoassay, routine chemistry, toxicology, and urinalysis;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Forensic toxicology, including job-related alcohol and controlled dangerous substances, limited to the detection of alcohol or a controlled dangerous substance for a non-therapeutic or non-diagnostic, job-related purpose.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Genetics, including the subdisciplines of biochemical genetics, cytogenetics, medical genetics, and molecular genetics;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Health awareness testing, which is limited to health awareness tests set forth in <cite path="10|10|01|.03|B.|(27)" doc="Code of Maryland Regulations">§B(27) of this regulation</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Hematology, including the subdisciplines of coagulation testing, hemoglobinopathy screening, and routine hematology;</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Immunology, including the subdisciplines of serology, immunohematology, and histocompatibility;</text>
+                  </para>
+                  <para>
+                    <num>(vii)</num>
+                    <text>Microbiology, including the subdisciplines of bacteriology, mycobacteriology, mycology, parasitology, and virology;</text>
+                  </para>
+                  <para>
+                    <num>(viii)</num>
+                    <text>Molecular biology, including nucleic acid probes; nucleic acid target, probe, and signal amplifications; recombinant nucleic acid techniques; and other techniques of applied molecular genetics other than cytogenetics used in connection with the diagnosis and control of human disease or the assessment of human health; and</text>
+                  </para>
+                  <para>
+                    <num>(ix)</num>
+                    <text>Pathology, including the subdisciplines of gynecologic cytology, dermatopathology, and histopathology.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(22)</num>
+                <text>“Examinee” means an individual:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Whose specimen is collected or tested by a laboratory; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Who is subject to a proficiency test in gynecologic cytology.</text>
+                </para>
+              </para>
+              <para>
+                <num>(23)</num>
+                <text>“Excepted laboratory” means a medical laboratory that offers to perform or performs tests limited to one or more excepted tests.</text>
+              </para>
+              <para>
+                <num>(24)</num>
+                <text>“Excepted test” means a medical laboratory test that is a CLIA waived test.</text>
+              </para>
+              <para>
+                <num>(25)</num>
+                <text>“Exfoliative” means falling off in scales or layers.</text>
+              </para>
+              <para>
+                <num>(26)</num>
+                <text>General Supervisor.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“General supervisor” means a technologist who possesses at least 4 years technical experience in a licensed medical laboratory other than an excepted laboratory.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“General supervisor” includes an individual who qualified as a supervisory technologist under previous State regulations.</text>
+                </para>
+              </para>
+              <para>
+                <num>(27)</num>
+                <text>“HDL-C” means high density lipoprotein cholesterol.</text>
+              </para>
+              <para>
+                <num>(28)</num>
+                <text>Health Awareness Test.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Health awareness test” means a test approved by the Secretary to be performed at a temporary or mobile laboratory, such as a health fair in a shopping mall.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Health awareness test” is limited to tests that:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Are performed solely for the purposes of screening for certain medical conditions and are not to be used for diagnostic or management of healthcare conditions;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Are performed on a CLIA waived testing device; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Measure glucose, lipids, or other clinical values which the Secretary has concluded are in the interest of public health to be measured at a health awareness event.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(29)</num>
+                <text>“Immediate jeopardy” means a deficiency that poses immediate danger to public health or safety and requires the Secretary to take immediate action to remove the jeopardy.</text>
+              </para>
+              <para>
+                <num>(30)</num>
+                <text>“Immediate precursor” means a substance that the Department has found to be, and by regulation designates as being, the principal compound commonly used or produced primarily for use and that is an immediate chemical intermediary used or likely to be used in the manufacture of a controlled dangerous substance, the control of which is necessary to prevent, curtail, or limit that manufacture.</text>
+              </para>
+              <para>
+                <num>(31)</num>
+                <text>“Laboratory” means a medical laboratory.</text>
+              </para>
+              <para>
+                <num>(32)</num>
+                <text>“Letter of exception” means a license issued by the Secretary authorizing the operation of a laboratory to offer to perform or perform one or more excepted tests.</text>
+              </para>
+              <para>
+                <num>(33)</num>
+                <text>“Letter of exception—limited testing for rare diseases” means a license issued by the Secretary authorizing the operation of a laboratory to offer to perform or perform testing limited to one or more rare disease tests.</text>
+              </para>
+              <para>
+                <num>(34)</num>
+                <text>“License” means a permit, letter of exception, certificate, or other document issued by the Secretary granting approval or authority to:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Offer to perform or perform medical laboratory tests or examinations in this State;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Offer to perform or perform medical laboratory tests or examinations on specimens acquired from health care providers in this State at a medical laboratory located outside this State; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Represent or service in this State a medical laboratory regardless of the laboratory's location.</text>
+                </para>
+              </para>
+              <para>
+                <num>(35)</num>
+                <text>“Licensed laboratory” means a laboratory operating under a license issued by the Secretary.</text>
+              </para>
+              <para>
+                <num>(36)</num>
+                <text>“Licensee” means a person who holds a license under this chapter to operate a laboratory.</text>
+              </para>
+              <para>
+                <num>(37)</num>
+                <text>“Limited public health testing” means testing limited to a combination of 15 or fewer excepted tests performed by a nonprofit organization or a State, county, or local health department.</text>
+              </para>
+              <para>
+                <num>(38)</num>
+                <text>“Marginal proficiency testing performance” means failure to attain the minimum satisfactory score for two of three consecutive proficiency testing events.</text>
+              </para>
+              <para>
+                <num>(39)</num>
+                <text>Medical Laboratory.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Medical laboratory” means a facility, entity, or site that offers to perform or performs tests in connection with:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The diagnosis and control of human disease;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The assessment of human health, nutrition, or medical conditions; or</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Job-related testing.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Medical laboratory” includes but is not limited to a:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Physician office laboratory;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Point-of-care laboratory;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Laboratory owned or operated by the State, a county, or a municipal health department;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Not-for-profit laboratory;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Hospital laboratory; and</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Commercial laboratory.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(40)</num>
+                <text>Method Verification.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Method verification” means evaluation of an analytical system by assessment of each analytical system component, including instrument, test strip, cartridge, card, and kit reagent.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Method verification” includes but is not limited to the determination of:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>An analytical system's reportable range;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Accuracy; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Within-run and run-to-run precision.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(41)</num>
+                <text>“Mobile laboratory” means a laboratory located in a moveable vehicle, such as a truck, trailer, van, or ambulance.</text>
+              </para>
+              <para>
+                <num>(42)</num>
+                <text>“Multi-site permit” means a permit available to the State, a county, or a municipal health department authorizing the operation of limited public health testing at more than one mobile or permanent laboratory.</text>
+              </para>
+              <para>
+                <num>(43)</num>
+                <text>“Office of Health Care Quality (OHCQ)” means the Office of Health Care Quality of the Maryland Department of Health, formerly the Licensing and Certification Administration (LCA).</text>
+              </para>
+              <para>
+                <num>(44)</num>
+                <text>“Operator of an analytical system” means an individual who applies a test specimen or control sample to an analytical system and performs the necessary operative steps to isolate or identify an infectious agent or measure an analyte.</text>
+              </para>
+              <para>
+                <num>(45)</num>
+                <text>“Owner” means a person who possesses a financial interest in a laboratory.</text>
+              </para>
+              <para>
+                <num>(46)</num>
+                <text>“Patient of the practice” means an individual who accepts referral to or is seen or otherwise examined by a member or members of a practice of medicine.</text>
+              </para>
+              <para>
+                <num>(47)</num>
+                <text>Permit.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Permit” means a license issued by the Secretary authorizing a person to operate a medical laboratory conducting one or more tests that are not excepted tests.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Permit” includes a:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Provisional permit; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Temporary permit.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(48)</num>
+                <text>“Permitted laboratory” means a licensed laboratory operating under a permit.</text>
+              </para>
+              <para>
+                <num>(49)</num>
+                <text>“Phlebotomist” means an individual who procures a blood specimen by venipuncture, arterial puncture, or capillary sampling.</text>
+              </para>
+              <para>
+                <num>(50)</num>
+                <text>“Physician” means a doctor of medicine or a doctor of osteopathy licensed by the Maryland State Board of Physicians and a doctor of podiatric medicine licensed by the Maryland State Board of Podiatric Medical Examiners.</text>
+              </para>
+              <para>
+                <num>(51)</num>
+                <text>“Physician of a practice” means a physician employed, salaried, or otherwise engaged to operate or function as a member in a medical practice, even if the physician does not have an ownership interest in the practice or the practice's laboratory.</text>
+              </para>
+              <para>
+                <num>(52)</num>
+                <text>“Physician office laboratory (POL)” means a medical laboratory operated by a single practice of medicine, individually or collectively by one or more physicians, that is used solely as an adjunct to the care of patients of the practice.</text>
+              </para>
+              <para>
+                <num>(53)</num>
+                <text>“Point-of-care laboratory (POCL)” means a laboratory operated as part of, or in association with, a medical care facility, such as a hospital, nursing home, community health center, health maintenance organization, county or municipal health department, or a pharmacy.</text>
+              </para>
+              <para>
+                <num>(54)</num>
+                <text>“Practice” means:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>An individual physician licensed to practice medicine in the State; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A medical partnership, professional association, professional service corporation, or medical corporation of two or more physicians licensed to practice medicine in the State and sharing facilities, personnel, income, or business expenses.</text>
+                </para>
+              </para>
+              <para>
+                <num>(55)</num>
+                <text>“Precision” means the agreement of results among themselves when a specimen or sample is tested multiple times.</text>
+              </para>
+              <para>
+                <num>(56)</num>
+                <text>“Pre-field evaluation” means the assessment of an analytical system before it may be used in a mobile or temporary laboratory.</text>
+              </para>
+              <para>
+                <num>(57)</num>
+                <text>“Primary standard” means a comprehensive general standard or set of standards that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A laboratory must meet to obtain or retain a license to operate; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>An individual must meet in order to examine gynecologic cytology specimens.</text>
+                </para>
+              </para>
+              <para>
+                <num>(58)</num>
+                <text>“Principal sanction” means the denial, suspension, or revocation of a license.</text>
+              </para>
+              <para>
+                <num>(59)</num>
+                <text>“Proficiency testing (PT)” means evaluation of an individual's ability to perform laboratory procedures or tests within the PT program's defined limits of accuracy through analysis of unknown samples distributed at periodic intervals by an external source.</text>
+              </para>
+              <para>
+                <num>(60)</num>
+                <text>“Public health laboratory” means a public, nonprofit laboratory solely owned and operated by or for the State, a county, or a municipal health department located in the State.</text>
+              </para>
+              <para>
+                <num>(61)</num>
+                <text>Quality Assurance.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Quality assurance” means a system of established written policies and procedures designed to monitor, review, evaluate, and improve the ongoing and overall quality of the preanalytic, analytic, and postanalytic aspects of laboratory testing.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Quality assurance” includes but is not limited to practices involving:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Patient preparation;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Specimen collection, labeling, processing, and transport;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Quality control strategies, practices, and results;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Record keeping;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Personnel training and competency;</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Continuing education;</text>
+                  </para>
+                  <para>
+                    <num>(vii)</num>
+                    <text>Proficiency testing;</text>
+                  </para>
+                  <para>
+                    <num>(viii)</num>
+                    <text>Remedial and corrective actions; and</text>
+                  </para>
+                  <para>
+                    <num>(ix)</num>
+                    <text>Analytical system evaluation, validation, and verification.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(62)</num>
+                <text>Quality Control.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Quality control” means established written policies and procedures designed to ensure reliable laboratory testing by monitoring, reviewing, and evaluating the analytic aspects of laboratory testing.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Quality control” includes but is not limited to policies and procedures that detect, monitor, review, and evaluate the:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Accuracy and precision of the analytic phase of a testing process;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Changes in the chemical, electronic, optical, or mechanical components of an analytical system;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Deterioration of reagents, materials, or supplies used in a testing process; and</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Personnel practices during a testing process.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(63)</num>
+                <text>“Quality control test” means an examination performed on an external test sample that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Is not part of the analytical system;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Contains a known quantity of the analyte being tested;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Is similar in its physical characteristics and constituents to patient specimens tested by the system; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Reacts with all system components in the same way as a patient specimen.</text>
+                </para>
+              </para>
+              <para>
+                <num>(64)</num>
+                <text>“Rare disease” means:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A disabling, chronically debilitating, or life-threatening disease or condition that has fewer than 200,000 affected individuals in the United States, which is equivalent to:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A prevalence of fewer than one individual per 2,000 individuals in the population; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>An incidence of fewer than one affected individual per 10,000 individuals in the population;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A disabling or life-threatening disease or condition that is listed as a rare disease by the National Institutes of Health Office of Rare Diseases; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A disabling or life-threatening disease or condition in which more than 200,000 individuals are affected if:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A subpopulation of the disease or condition is equal to the prevalence standard for a rare disease in <cite path="10|10|01|.03|B.|(64)|(a)" doc="Code of Maryland Regulations">§B(64)(a) of this regulation</cite>; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The incidence of the disease or condition is fewer than five affected individuals per 10,000 in a defined community.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(65)</num>
+                <text>Rare Disease Test.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Rare disease test” means a test that is:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Performed on a specimen obtained from an individual in order to determine or evaluate whether the individual has a rare disease or condition;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Based on a single method using one sample of a specimen to produce the test result; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Not routinely offered or performed by a medical laboratory permitted by the Department.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Rare disease test” includes a test with multiple clinical or health evaluation uses such as:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Newborn screening;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Carrier screening;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Predictive testing;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Disease diagnosis; or</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Disease prognosis.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(66)</num>
+                <text>“Reliable” means that the quality of a test result meets the quality standards for the preanalytic, analytic, and postanalytic phases of the testing process as set forth in <cite path="|10.10.06" doc="Code of Maryland Regulations">COMAR 10.10.06</cite>.</text>
+              </para>
+              <para>
+                <num>(67)</num>
+                <text>“Remeasurement” means repeating the measurement of an analyte.</text>
+              </para>
+              <para>
+                <num>(68)</num>
+                <text>“Sample” means a substance, constituent, or material intended for use in quality control, proficiency testing, or another aspect of a laboratory's quality assurance program.</text>
+              </para>
+              <para>
+                <num>(69)</num>
+                <text>Sanction.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Sanction” means an action that the Secretary may take to effect statutory or regulatory compliance.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Sanction” includes a principal sanction and an alternative sanction.</text>
+                </para>
+              </para>
+              <para>
+                <num>(70)</num>
+                <text>Secretary.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Secretary” means the Secretary of Health or the Secretary's designee.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Secretary” includes the Office of Health Care Quality as a designee.</text>
+                </para>
+              </para>
+              <para>
+                <num>(71)</num>
+                <text>“SOPM” means a standard operating procedure manual.</text>
+              </para>
+              <para>
+                <num>(72)</num>
+                <text>“Specialty” means a scientific field of study within a laboratory subdiscipline, such as compatibility testing within the subdiscipline of immunohematology.</text>
+              </para>
+              <para>
+                <num>(73)</num>
+                <text>“Specimen” means material collected from the human body and intended for laboratory testing.</text>
+              </para>
+              <para>
+                <num>(74)</num>
+                <text>“Standard” means one or more specific technical, procedural, fiscal, or other requirements that a laboratory or individual must meet to comply with this chapter.</text>
+              </para>
+              <para>
+                <num>(75)</num>
+                <text>“Subdiscipline” means a scientific field of study within a laboratory discipline, such as bacteriology within the discipline of microbiology and dermatopathology within the discipline of pathology.</text>
+              </para>
+              <para>
+                <num>(76)</num>
+                <text>Survey.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Survey” means an on-site visit to a laboratory by one or more employees of the OHCQ to carry out or oversee the regulation of medical laboratories.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Survey” includes but is not limited to:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Inspection;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Follow-up inspection;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Complaint investigation; and</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>On-site monitoring.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(77)</num>
+                <text>System Check.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“System check” means a device that verifies all or part of the chemical, electronic, optical, or mechanical components or constituents of a test system to determine if the test system is functioning properly.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“System check” includes chemical, electronic, optical, or mechanical devices, such as a card, tube, or strip that simulates a properly functioning single-use test device.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>“System check” does not include a quality control test sample or patient specimen.</text>
+                </para>
+              </para>
+              <para>
+                <num>(78)</num>
+                <text>“Technical supervisor” means an individual who is qualified to direct medical laboratory testing in at least one laboratory discipline.</text>
+              </para>
+              <para>
+                <num>(79)</num>
+                <text>“Technician” means an individual who has at least 1 year of experience in a licensed medical laboratory, other than an excepted laboratory, and who has earned:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>An associate degree in a laboratory science or medical laboratory technology from an accredited college or university; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>60 semester hours of academic credit, including 24 semester credit hours of science that include:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>6 semester hours of chemistry, and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>6 semester hours of biology.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(80)</num>
+                <text>“Technologist” means an individual who:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Possesses a bachelor's degree in a chemical, physical, biological, or clinical laboratory science or in medical technology from an accredited college or university and has at least 1 year of full-time laboratory experience in the discipline in which the individual performs tests;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Received a passing score in the United States Department of Health and Human Services proficiency examination for clinical laboratory technologists; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Meets the technologist qualifications set forth in 42 CFR §493.1491, which is incorporated by reference in <cite path="|10|10|01|.04" doc="Code of Maryland Regulations">Regulation .04 of this chapter</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(81)</num>
+                <text>“Temporary laboratory” means a medical laboratory located at a temporary testing site, such as a health fair or shopping mall, for fewer than 30 days in 12 consecutive months.</text>
+              </para>
+              <para>
+                <num>(82)</num>
+                <text>“Test” means a medical laboratory examination, analysis, procedure, or preanalytic, analytic, or postanalytic phase of a testing process.</text>
+              </para>
+              <para>
+                <num>(83)</num>
+                <text>“Testing event” means an occasion when a health awareness test is offered or performed on a specified date at a temporary laboratory.</text>
+              </para>
+              <para>
+                <num>(84)</num>
+                <text>“Testing personnel” means an individual or individuals employed or otherwise engaged by a laboratory to perform medical laboratory tests.</text>
+              </para>
+              <para>
+                <num>(85)</num>
+                <text>“Total number of tests” means all tests performed by a laboratory in all disciplines in the previous calendar year.</text>
+              </para>
+              <para>
+                <num>(86)</num>
+                <text>“Unsatisfactory proficiency testing performance” means failure to attain the minimum satisfactory score for three of four consecutive proficiency testing events.</text>
+              </para>
+              <para>
+                <num>(87)</num>
+                <text>“Test System” means the instructions, instrumentation, equipment, and reagents necessary to perform an assay or examination that generates test results.</text>
+              </para>
+              <para>
+                <num>(88)</num>
+                <text>“Validity check” means a procedural, testing process, or analytical verification of proper performance of one or more analytical steps performed by the test system operator, built into a test system, and carried out by a test system to detect environmental damage or interfering substances that may have affected the device or the results of the testing process.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|01|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcj|10-1001">Courts and Judicial Proceedings Article, §10-1001</cite>; Health-General Article, §§17-201, 17-202, 17-205, 17-214, and 17-501; <br/>Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1969-07-01">Effective date: July 1, 1969</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-03-02">Chapter revised effective March 2, 1977 (4:5 Md. R. 372)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-02-10">Chapter revised effective February 10, 1986 (13:3 Md. R. 271)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.03|N." proof="needed" doc="Code of Maryland Regulations">Regulation .03N</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28"><cite path="|10|10|01|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective December 28, 1987 (14:26 Md. R. 2747)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-10-30" discontinuity="true">Chapter revised effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-10-29">Chapter revised effective October 29, 1990 (17:21 Md. R. 2529)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|10|01|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended as an emergency provision effective April 1, 1994 (21:8 Md. R. 665); adopted permanently effective August 1, 1994 (21:15 Md. R. 1305)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01">Regulations .05, .10—.12, .15, and .18 amended and new Regulation .20 adopted as an emergency provision effective May 1, 1992 (19:10 Md. R. 926) Regulation .05A amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.10|B." proof="needed" doc="Code of Maryland Regulations">Regulation .10B</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.11" proof="needed" doc="Code of Maryland Regulations">Regulation .11</cite> repealed and new Regulation .11 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.12" proof="needed" doc="Code of Maryland Regulations">Regulation .12</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|10|01|.14" proof="needed" doc="Code of Maryland Regulations">Regulation .14</cite> repealed and new Regulation .14 adopted as an emergency provision effective April 1, 1994 (21:8 Md. R. 665); adopted permanently effective August 1, 1994 (21:15 Md. R. 1305)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.15" proof="needed" doc="Code of Maryland Regulations">Regulation .15</cite> repealed and new Regulation .15 adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.18|C." proof="needed" doc="Code of Maryland Regulations">Regulation .18C</cite> amended effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-01"><cite path="|10|10|01|.20" proof="needed" doc="Code of Maryland Regulations">Regulation .20</cite> adopted effective October 1, 1992 (19:15 Md. R. 1390)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Medical Laboratories in Maryland, repealed and new chapter General, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|01|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective February 18, 2002 (29:3 Md. R. 220); December 23, 2002 (29:25 Md. R. 1982); June 1, 2009 (36:11 Md. R. 787); January 13, 2011 (38:1 Md. R. 11); April 16, 2012 (39:7 Md. R. 492); April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. Chapter, Medical Laboratories in Maryland, repealed and new chapter General, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|01|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective February 18, 2002 (29:3 Md. R. 220); December 23, 2002 (29:25 Md. R. 1982); June 1, 2009 (36:11 Md. R. 787); January 13, 2011 (38:1 Md. R. 11); April 16, 2012 (39:7 Md. R. 492); April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|01|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|02|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Responsibilities of the Department.</heading>
+            <para>
+              <num>A.</num>
+              <text>The OHCQ. The OHCQ shall conduct surveys, as set forth in this subtitle, of laboratories that obtain or retain a license.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Surveys. The OHCQ shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Conduct or oversee an announced or unannounced survey of a laboratory at any time during its hours of operation to assess compliance with applicable sections of Health-General Article, Title 17, Subtitles 2 and 5, Annotated Code of Maryland, and this chapter; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Examine, as part of a survey, a laboratory's facilities, equipment, quality assurance records and procedures, operating procedures, personnel and personnel records, proficiency testing, patient reports, and other records and files pertinent and subject to this subtitle.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Issuance of Licensing Documents. The OHCQ shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>License a person to operate a laboratory by issuing a letter of exception or permit when the laboratory is in compliance with the applicable standards set forth in this subtitle;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Issue a license that includes the:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Name of the laboratory;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Name of the licensee or laboratory director; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Name of the laboratory owner.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Issue a license that designates:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The classes of services, that is, disciplines, provided;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The tests or examinations offered; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Both §C(3)(a) and (b) of this regulation.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Administration and Information Management. The OHCQ shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Maintain a list of licensed laboratories;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Document information regarding denial, suspension, or revocation of a license and submit this documentation to the Secretary;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Monitor the proficiency testing performance of a laboratory required to participate in proficiency testing; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>For tests that are not CLIA waived, impose alternative sanctions and initiate actions leading to imposition of principal sanctions against a laboratory under the appropriate provisions of this subtitle.</text>
+              </para>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Recommending Excepted Test Status.</text>
+              <text>The Secretary shall maintain a Laboratory Advisory Committee to advise the Secretary on matters relating to medical laboratories as set forth in Health-General Article, Title 17, Subtitle 2, Annotated Code of Maryland.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|02|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcj|10-1001">Courts and Judicial Proceedings Article, §10-1001</cite>; Health General Article, §§17-201, 17-202, 17-205, 17-214, and 17-501, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|02|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-01-21"><cite path="|10|10|02|.01|E." doc="Code of Maryland Regulations">Regulation .01E</cite> adopted effective January 21, 2002 (29:1 Md. R. 23)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|02|.01|E." doc="Code of Maryland Regulations">Regulation .01E</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-08-29"><cite path="|10|10|02|.01|F." doc="Code of Maryland Regulations">Regulation .01F</cite> adopted effective August 29, 2005 (32:17 Md. R. 1438)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|02|.01|F." doc="Code of Maryland Regulations">Regulation .01F</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|02|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|02|.02|C." doc="Code of Maryland Regulations">Regulation .02C</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|02|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|03|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Letters of Exception.</heading>
+            <para>
+              <num>A.</num>
+              <text>Eligibility.</text>
+              <para>
+                <num>(1)</num>
+                <text>An individual directing a POL or POCL who offers to perform or performs tests limited to one or more excepted tests may obtain a letter of exception instead of a permit to offer to perform or perform those tests.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>An individual eligible for a letter of exception shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Be qualified as a laboratory director as set forth in 42 CFR §493.1405, including:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Being a doctor of medicine or doctor of osteopathy licensed in the State and having laboratory training or experience appropriate for the testing performed; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Holding an earned doctoral, master's, or bachelor's degree in a chemical, physical, biological, or clinical laboratory science or medical technology from an accredited institution;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Provide evidence of training in the performance and interpretation of excepted tests and be licensed in the State as a:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Nurse midwife;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Nurse practitioner;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Physician assistant;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Chiropractor;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Podiatrist;</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Dentist; or</text>
+                  </para>
+                  <para>
+                    <num>(vii)</num>
+                    <text>Pharmacist; or</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Be clinical staff who:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Meets the qualifications set forth in <cite path="10.47.01.06|D." doc="Code of Maryland Regulations">COMAR 10.47.01.06D</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Is employed by a substance abuse treatment program that is certified or accredited in accordance with <cite path="10.47.04.03" doc="Code of Maryland Regulations">COMAR 10.47.04.03</cite>; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>A person operating a temporary medical laboratory to perform health awareness tests, regardless of testing site location, is not eligible for a letter of exception.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Excepted Tests. A POL or POCL operating under a letter of exception may perform one or more CLIA waived tests.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Reporting Requirements for Whole Blood Lead Testing on a CLIA Waived Analyzer.</text>
+              <para>
+                <num>(1)</num>
+                <text>The blood tests for lead shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Be reported under this regulation in the format approved by the Maryland Department of the Environment; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Include the information required by this regulation.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The blood tests for lead to be reported shall include the following information:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Demographic information including:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Name, including first, last, middle initial;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Date of birth, sex, and race;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Complete home address at the time the blood specimen was drawn including house or apartment number, street, city, county or town, zip code, and state;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Telephone number; and</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Parent or guardian name;</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Residential status, for example, whether parent or guardian owns their home or rents;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Type of specimen, either venous or capillary, and date the specimen was drawn;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Clinic or practice name, address, and telephone number;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Draw site name and address, if different from clinic or practice;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Blood lead level in micrograms per deciliter; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Any additional information as may be required by the Maryland Department of the Environment.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Regulatory Requirements. An individual required to obtain a license to operate a laboratory who chooses to operate under a letter of exception shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Obtain, complete, and file an application as prescribed in <cite path="|10|10|03|.04" doc="Code of Maryland Regulations">Regulation .04 of this chapter</cite>; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Comply with good laboratory practices that include:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Following the manufacturer's instructions for instrument or test system operation and test performance;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Having a procedure manual describing the processes for performing tests and reporting patient test results;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Performing and documenting quality control procedures using applicable levels of control materials each day of testing;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Performing and documenting that remedial action has been taken when problems or errors are identified;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Documenting lot numbers of all quality control reagents used; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Performing and documenting test system function for instruments with internal quality controls on each day of testing.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|03|.04">
+          <section cache:ref-path="10|10|03|.04">
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Letter of Exception and Permit — Administrative Procedures.</heading>
+            <para>
+              <num>A.</num>
+              <text>Application — Filing.</text>
+              <para>
+                <num>(1)</num>
+                <text>Except for a laboratory eligible for a multi-site license as set forth in <cite path="|10|10|03|.01|D.|(3)|(b)" doc="Code of Maryland Regulations">Regulation .01D(3)(b) of this chapter</cite>, a person shall apply for a license for each laboratory location.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A person holding a license to operate a laboratory in the discipline of chemistry or health awareness testing is not required to obtain a separate cholesterol testing permit to conduct cholesterol testing at a temporary laboratory site if the licensee complies with the requirements applicable to a temporary laboratory as set forth in this subtitle.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>A person shall complete and file an application for a license using forms provided by the OHCQ.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A person shall complete on the application a description of laboratory services, which includes but is not limited to:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Types of tests performed or to be performed;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Total number of tests performed or to be performed annually, excluding tests for quality control and proficiency testing; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Qualifications of personnel who direct, supervise, and perform laboratory testing.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>The laboratory director shall sign the application forms attesting that the information provided is accurate and that the laboratory is or will be operated in accordance with the requirements and standards required in this chapter.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Application — Evaluation and Billing.</text>
+              <para>
+                <num>(1)</num>
+                <text>The OHCQ shall review and evaluate an application in accordance with the standards and requirements of this subtitle to determine if an application is complete.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The OHCQ shall review and evaluate an application in accordance with the standards and requirements of this subtitle to determine if the laboratory is eligible for a:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Letter of exception;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Letter of exception — limited testing for rare diseases; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Permit.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Application — Denial of License. If the OHCQ determines that a laboratory is not in compliance with the requirements of this chapter and therefore cannot be issued a license, the OHCQ shall provide to the laboratory:</text>
+              <para>
+                <num>(1)</num>
+                <text>A written statement of the grounds on which the denial is based; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The opportunity to:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Amend and resubmit the application; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Request, in writing, an opportunity for a hearing as provided in the Administrative Procedure Act, State Government Article, §§<cite doc="Md. Code" path="gsg|10-201">10-201</cite>—<cite doc="Md. Code" path="gsg|10-226">10-226</cite>, and Health-General Article, §§17-210 and 17-509, Annotated Code of Maryland.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Notification Requirements. A licensee shall notify the OHCQ within 30 days of a change in laboratory:</text>
+              <para>
+                <num>(1)</num>
+                <text>Ownership;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Name;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Location; or</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Director.</text>
+              </para>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Amending a Permit. Except as prescribed in <cite path="10|10|03|.04|D." doc="Code of Maryland Regulations">§D of this regulation</cite>, a licensee holding an unexpired permit who wishes to amend it shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Submit a written request for amendment to the Secretary; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Obtain written approval from the OHCQ before implementing the amendment.</text>
+              </para>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>Non-Transferability. A license is not transferable between laboratories, directors, or locations.</text>
+            </para>
+            <para>
+              <num>G.</num>
+              <text>Letter of Exception. A person applying for a letter of exception for a POL or POCL shall submit an initial application.</text>
+            </para>
+            <para>
+              <num>H.</num>
+              <text>Letter of Exception — Limited Testing for Rare Diseases. A person applying for a letter of exception—limited testing for rare diseases for a laboratory shall submit an initial application.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|03|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-303">Environment Article, §6-303</cite>; Health-General Article, §§2-104(b), 17-202, 17-205—17-210, 17-212, 17-502, 17-503, 17-505, and 17-510; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|10|10|03|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); July 23, 2001 (28:14 Md. R. 1321)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.01|A." doc="Code of Maryland Regulations">Regulation .01A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.01|E." doc="Code of Maryland Regulations">Regulation .01E</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|10|03|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); June 1, 2009 (36:11 Md. R. 787); April 13, 2015 (42:7 Md. R. 568)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|03|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 16, 2012 (39:7 Md. R. 492)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|03|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended as an emergency provision effective November 1, 2004 (31:25 Md. R. 1789); amended permanently effective January 6, 2005 (31:26 Md. R. 1863); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-13"><cite path="|10|10|03|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective August 29, 2005 (32:17 Md. R. 1438); February 22, 2010 (37:4 Md. R. 341); April 16, 2012 (39:7 Md. R. 492); November 12, 2012 (39:22 Md. R. 1428); April 1, 2013 (40:6 Md. R. 473); March 13, 2017 (44:5 Md. R. 292)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-11-12"><cite path="|10|10|03|.02|C." doc="Code of Maryland Regulations">Regulation .02C</cite> amended effective November 12, 2012 (39:22 Md. R. 1428)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.03|C." doc="Code of Maryland Regulations">Regulation .03C</cite> amended effective June 1, 2009 (36:11 Md. R. 787); August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|03|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite>, E amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.05" doc="Code of Maryland Regulations">Regulation .05</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.06" doc="Code of Maryland Regulations">Regulation .06</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.06|A." doc="Code of Maryland Regulations">Regulation .06A</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.01" warning="false"/>
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.02" warning="false"/>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|04|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-204, 17-205, 17-207, 17-209, 17-502, 17-503, and 17-506, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19">Effective date: February 19, 1990 (17:3 Md. R. 297)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.03|B." proof="needed" doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.05" proof="needed" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.07" proof="needed" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.08|E." proof="needed" doc="Code of Maryland Regulations">Regulation .08E</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.09" proof="needed" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09"><cite path="|10|10|04|.12|B." proof="needed" doc="Code of Maryland Regulations">Regulation .12B</cite> and C amended effective December 9, 1991 (18:24 Md. R. 2644)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-02-26" discontinuity="true">Regulations <cite path="|10|10|04|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|10|04|.12" proof="needed" doc="Code of Maryland Regulations">.12</cite> repealed and new Regulations <cite path="|10|10|04|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|10|04|.19" proof="needed" doc="Code of Maryland Regulations">.19</cite> adopted effective February 26, 1996 (23:4 Md. R. 273)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Cholesterol Testing, repealed and new chapter, Medical Laboratories — Fees, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|04|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|10|10|04|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective July 23, 2001 (28:14 Md. R. 1321); June 1, 2009 (36:11 Md. R. 787); August 19, 2013 (40:16 Md. R. 1344); December 21, 2015 (42:25 Md. R. 1543)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|04|.03|A." proof="needed" doc="Code of Maryland Regulations">Regulation .03A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29" discontinuity="true">Chapter, Medical Laboratories — Fees renamed Medical Laboratories effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.01|E." doc="Code of Maryland Regulations">Regulation .01E</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|04|.03" proof="needed" doc="Code of Maryland Regulations">Regulation .03</cite> repealed effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01" discontinuity="true">Chapter repealed effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|05|.02">
+          <section cache:ref-path="10|10|05|.02">
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Discipline, Specialty, and Subspecialty.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A licensee operating under a permit shall ensure that the laboratory participates successfully in PT, when applicable, for each test or analyte in each of the following disciplines, subdisciplines, and specialties:</text>
+              <para>
+                <num>(1)</num>
+                <text>Microbiology, including the subdisciplines of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Bacteriology;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Mycobacteriology;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Mycology;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Parasitology; and</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Virology;</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Immunology, including the subdisciplines of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>General immunology;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>General serology; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Syphilis serology;</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Chemistry, including the subdisciplines of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Blood gas analysis;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Endocrinology;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Routine chemistry; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Toxicology;</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Genetics, including the subdisciplines of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Biochemical genetics;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Cytogenetics; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Molecular genetics;</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Hematology, including the subdisciplines of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Coagulation testing; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Routine hematology;</text>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Pathology, including the subdiscipline of gynecologic cytology;</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Immunohematology, including the specialties of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>ABO group and D(Rho) typing;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Unexpected antibody detection, that is, antibody screen;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Antibody identification; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Compatibility testing; and</text>
+                </para>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Forensic toxicology limited to job-related alcohol and controlled dangerous substances.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Discipline Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>General. A licensee operating under a permit shall ensure that the laboratory meets the applicable PT standards set forth in this chapter and in 42 CFR §§493.821493.865.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Gynecologic Cytology. A licensee operating under a permit to perform gynecologic cytology shall ensure that the laboratory enrolls and maintains successful participation in a cytology PT program approved by CMS.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Job-Related Testing.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A licensee operating under a permit to perform job-related testing for alcohol or controlled dangerous substances shall ensure that the laboratory enrolls and continues to participate satisfactorily, when applicable, in one or more of the programs listed in <cite path="10|10|05|.02|B.|(3)|(b)|(e)" proof="needed" doc="Code of Maryland Regulations">§B(3)(b)(e) of this regulation</cite>.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Screening Tests. A licensee operating under a permit to perform screening tests for job-related alcohol and controlled dangerous substances shall ensure that the laboratory enrolls and participates satisfactorily in:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The American Association of Bioanalysts (AAB) Urine Toxicology Screening survey;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The American Association for Clinical Chemistry/College of American Pathologists (AACC/CAP) Forensic Urine Drug Testing Screening survey; or</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Another program approved by the Secretary as set forth in <cite path="|10|10|05|.03" doc="Code of Maryland Regulations">Regulation .03 of this chapter</cite>.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Confirmation Tests. A licensee operating under a permit to perform confirmation tests for job-related alcohol and controlled dangerous substances shall ensure that the laboratory enrolls and participates satisfactorily in:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The AACC/CAP Forensic Urine Drug Testing Confirmatory survey;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The federal Substance Abuse and Mental Health Services Administration's Federal Workplace Drug Testing Program; or</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Another program approved by the Secretary as set forth in <cite path="|10|10|05|.03" doc="Code of Maryland Regulations">Regulation .03 of this chapter</cite>.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Blood Alcohol Tests. A licensee operating under a permit to perform tests for alcohol in blood shall ensure that the laboratory enrolls and participates satisfactorily in:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The AACC/CAP survey for whole blood alcohol or serum alcohol, or both; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Another program approved by the Secretary as set forth in <cite path="|10|10|05|.03" doc="Code of Maryland Regulations">Regulation .03 of this chapter</cite>.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Hair Analysis. A licensee operating under a permit to perform tests for a controlled dangerous substance in hair shall ensure that the laboratory enrolls and participates satisfactorily in:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The State of Florida's P.T. program for drug testing in hair; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Another program that possesses standards set by the Secretary or that are equivalent to the State of Florida's PT program for drug testing in hair and is approved by the Secretary as set forth in <cite path="|10|10|05|.03" doc="Code of Maryland Regulations">Regulation .03 of this chapter</cite>.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|05|.04">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Cytology — Departmental Requirements.</heading>
+            <para>
+              <num>A.</num>
+              <text>The Secretary may not issue a license to operate a laboratory that examines gynecologic cytology specimens if the laboratory does not enroll and participate satisfactorily in a cytology PT program approved by CMS.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The OHCQ shall evaluate an individual's PT performance as set forth in 42 CFR §493.945.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|05|.05">
+          <section cache:ref-path="10|10|05|.05">
+            <prefix>Regulation</prefix>
+            <num>.05</num>
+            <heading>Cytology — Laboratory and Individual Standards.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A pathologist or cytotechnologist who examines gynecological cytology specimens from individuals in this State shall participate satisfactorily in an annual cytology PT program approved by CMS.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Laboratory Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>A licensee operating under a permit to examine gynecologic cytology specimens shall ensure that each pathologist and cytotechnologist who examines gynecologic cytology specimens participates in a cytology PT program conducted by the Department or approved by CMS.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A licensee employing an individual who has failed a second testing event in an annual PT cycle shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Prohibit the individual from examining gynecologic specimens and provide or secure remedial training and education in gynecologic cytology for the individual, which training and education includes examination by the individual of gynecologic specimens in the individual's area of failure; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Document the individual's completion of education and training.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>A licensee employing an individual who has failed a first or subsequent PT event and who does not obtain mandated retesting or retraining, or both, shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Immediately remove that individual from a position of examining gynecologic cytology specimens for the purpose of reporting diagnostic test results to a health care provider; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Provide written notice to the OHCQ within 30 days after being informed of the individual's last test failure that the individual is no longer examining gynecologic cytology specimens for the purpose of reporting diagnostic test results to a health care provider.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Individual Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>A cytotechnologist or pathologist who examines gynecological cytology specimens shall participate in an annual PT event that involves the examination of a 10-slide or 20-slide test set as set forth in 42 CFR §493.945.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>An individual passes a testing event and performs satisfactorily in PT when the individual scores at least 90 percent on a 10-slide or 20-slide test set.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>An individual fails a testing event and performs unsatisfactorily in PT if the individual:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Scores less than 90 percent on a 10-slide or 20-slide test set; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Fails to take a scheduled retest without prior Department approval.</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>An individual who fails the annual testing event shall take a second test with another 10-slide test set:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Within 45 days after receiving notice of a test failure; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>At a later date with prior Department approval.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>An individual who fails a second test shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Cease examining gynecologic specimens immediately upon being notified of the second failure;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Complete at least 40 hours of remedial training and education in gynecologic cytology that includes examining gynecological specimens in the area of failure;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Complete the required training and education in a laboratory that operates under a:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>State permit for in-State laboratories; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Certificate issued by CMS in the subdiscipline of gynecologic cytology for out-of-State laboratories;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Document the required remedial training and education when completed, using a form provided by the OHCQ, and submit the completed form to the OHCQ;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Schedule and take a third test with a 20-slide test set within 30 days of completing the required remedial training and education; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Begin examining gynecologic cytology specimens only after the OHCQ informs the individual that the individual obtained a passing score on the third test.</text>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>An individual who fails a third or subsequent test shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Complete at least 35 hours of documented, formally structured, continuing education in diagnostic cytopathology that focuses on the examination of gynecologic preparations;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Document the education when completed, using a form provided by the OHCQ, and submit the completed form to the OHCQ;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Schedule and take a subsequent test with a 20-slide test set within 30 days of completing the required continuing education; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Begin examining gynecologic cytology specimens only after the OHCQ informs the individual that the individual obtained a passing score on the test required under <cite path="10|10|05|.05|C.|(6)|(c)" doc="Code of Maryland Regulations">§C(6)(c) of this regulation</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>An individual who fails a first or subsequent testing event in an annual PT cycle and who chooses not to complete mandatory retesting or remedial training, or both, shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Immediately cease examining gynecologic cytology specimens and notify the OHCQ of this in writing; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Reenter the PT process at the point where the individual previously chose to withdraw from the testing process, if the individual decides at a later date to satisfy PT requirements.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|05|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202 and 17-211, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-10-05">Effective date: October 5, 1998 (25:20 Md. R. 1529)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Job-Related Alcohol and Controlled Dangerous Substances Testing, repealed and new chapter, Medical Laboratories — Proficiency Testing, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.05|A." doc="Code of Maryland Regulations">Regulation .05A</cite>, B amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.05|B." doc="Code of Maryland Regulations">Regulation .05B</cite>, C amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.05|C." doc="Code of Maryland Regulations">Regulation .05C</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Authorization to Request Laboratory Tests.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A laboratory may not perform a laboratory test, except under a health awareness permit or cholesterol permit, without obtaining written or electronic authorization from:</text>
+              <para>
+                <num>(1)</num>
+                <text>A court of law;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A doctor of medicine, osteopathy, podiatric medicine, or dentistry; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Another person authorized to order laboratory tests under the Annotated Code of Maryland.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Other Authorized Persons. Other persons authorized to order laboratory tests include:</text>
+              <para>
+                <num>(1)</num>
+                <text>A nurse midwife certified by the Maryland State Board of Nursing under <cite path="|10.27.05" doc="Code of Maryland Regulations">COMAR 10.27.05</cite>;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A nurse practitioner certified by the Maryland State Board of Nursing under <cite path="|10.27.07" doc="Code of Maryland Regulations">COMAR 10.27.07</cite>;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>A physician's assistant, as authorized by the physician's assistant's supervising physician;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A chiropractor requesting a test on blood or urine;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>An employer requesting a job-related test for alcohol or controlled dangerous substances;</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Clinical staff who:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Meets the qualifications set forth in <cite path="10.47.01.06|D." doc="Code of Maryland Regulations">COMAR 10.47.01.06D</cite>;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is employed by a substance abuse treatment program that is certified or accredited in accordance with <cite path="10.47.04.03" doc="Code of Maryland Regulations">COMAR 10.47.04.03</cite>; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program;</text>
+                </para>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>A pharmacist, for tests that qualify for a letter of exception under <cite path="10.10.03.02|B." doc="Code of Maryland Regulations">COMAR 10.10.03.02B</cite> and for glucose, A1c, lipids (including total cholesterol, HDL, LDL, and triglycerides), AST, and ALT; and</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>A naturopathic physician consistent with <cite doc="Md. Code" path="gho|14">Health Occupations Article, §14</cite>–5F–01 through §14–5F–32, Annotated Code of Maryland and <cite path="|10.32.21" doc="Code of Maryland Regulations">COMAR 10.32.21</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Standards. A licensee shall ensure that the laboratory meets the applicable standards concerning test requisition contained in 42 CFR §493.1241.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|.07">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.07</num>
+            <heading>Quality Control — Specialty and Subspecialty.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A licensee operating under a permit shall ensure that the laboratory establishes and follows written policies and procedures for a comprehensive quality control program that includes verification and assessment of accuracy, measurement of precision, and detection of error for all analyses and procedures performed by the laboratory.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>General. A licensee shall ensure that the laboratory meets the applicable quality control requirements for each specialty and subspecialty under:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>42 CFR §§493.1200—493.1299; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Regulations <cite path="|10|10|06|.07" doc="Code of Maryland Regulations">.07</cite>—<cite path="|10|10|06|.15" doc="Code of Maryland Regulations">.15</cite> of this chapter.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Cholesterol. A licensee or approved plan holder of a laboratory that performs cholesterol tests shall ensure that the laboratory obtains and maintains control samples at two levels, near or bracketing the 200 and 240 micrograms/deciliter decision levels.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|.08">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.08</num>
+            <heading>Quality Control — Job-Related Alcohol and Drug Testing.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A licensee shall ensure that a laboratory has in place a quality assurance program designed to monitor and evaluate all phases of the testing process including but not limited to:</text>
+              <para>
+                <num>(1)</num>
+                <text>Laboratory certification;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Specimens, specimen collection, chain of custody, and transport;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Security and controlled access;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Storage and specimen retention;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Analytical methods and procedures;</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Accuracy, precision, and reliability;</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Reporting test results; and</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Proficiency testing.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>Certification. A licensee of a laboratory that offers to perform or performs screening or confirmation tests for alcohol or controlled dangerous substances shall ensure that the laboratory is inspected and certified to perform tests for alcohol or controlled dangerous substances by:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The Secretary;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The College of American Pathologists;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The federal Substance Abuse and Mental Health Services Administration (SAMHSA); or</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A government agency, program, or accrediting organization approved by the Secretary as set forth in <cite path="10.10.02.02" doc="Code of Maryland Regulations">COMAR 10.10.02.02</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Specimens, Specimen Collection, Chain of Custody, and Transport.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Permissible Specimens. A licensee shall ensure that job-related tests for alcohol or controlled dangerous substances are only performed using specimens derived from the human body as set forth in <cite path="10.10.10.06" doc="Code of Maryland Regulations">COMAR 10.10.10.06</cite>.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A licensee shall ensure that a specimen is processed, handled, and transported in a manner that protects the identity and physical integrity of the specimen by:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Accepting a specimen in a sealed container that has a non-resealable closure or an evidentiary tape that assures detection of any tampering; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Implementing, maintaining, and employing chain of custody procedures, including documentation of specimen handling and access, that cover the life of a specimen from the time of collection through final disposal of the specimen.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Decontamination Requirement for Hair Specimens. A licensee shall ensure that the laboratory establishes, validates, and uses a procedure to remove possible external contamination from a hair specimen before a test is performed.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Security and Controlled Access. A licensee shall ensure that a specimen is collected and processed in a manner that protects the physical integrity of the specimen by:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Collecting and processing a specimen under supervised conditions;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Securing the laboratory or any portion of the laboratory used for job-related alcohol or controlled dangerous substances testing;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Using and maintaining secure specimen storage areas that include, when applicable, locked freezers and refrigerators;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Limiting access to testing and specimen storage facilities to authorized personnel;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Exercising and maintaining control over a specimen storage area by documenting in an access log the identity, date, time of entry and exit, and the purpose for entry for each individual who enters the storage area; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Recording, reporting, and maintaining a test result in a manner that prevents alteration and breech of confidentiality by:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Limiting access to a test result to authorized personnel; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Preparing and storing a test result in a secured area.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Storage and Specimen Retention. A licensee shall ensure that a:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Positive urine or hair specimen is retained in the original collection container for at least 6 months after a final test result is reported;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Positive urine or blood specimen is stored at less than or equal to -20° Centigrade; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Negative specimen is retained for at least 5 days at less than or equal to room temperature.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Analytical Methods and Procedures. A licensee shall ensure that tests are performed using proven and reliable methods and procedures that are approved by the:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Secretary;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>College of American Pathologists (CAP);</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The federal Substance Abuse and Mental Health Services Administration (SAMHSA); or</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>United States Food and Drug Administration (FDA).</text>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Approval of Methods and Procedures. The Secretary shall base approval or acceptability of any analytical method or procedure with questioned validity or reliability on evidence published in a peer-reviewed scientific journal and derived from independent:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Scientific testing and evaluation; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Scientifically based clinical trial.</text>
+                </para>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Accuracy, Precision, and Reliability. The licensee shall ensure that the laboratory employs quality control mechanisms and practices, including but not limited to those assuring accuracy, precision, and reliability of test results by:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Using a sufficient number of reference standard samples with each batch of test specimens to ensure accuracy of the assay or procedure's linearity over time;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Using reference standard samples that have values at or near the minimum drug detection levels or concentrations;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Using results obtained from testing reference standard samples to document linearity and calculate test data obtained from test specimens;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Including in each analytical run quality control samples that are:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Certified to contain no alcohol or controlled dangerous substance;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Fortified with known reference standards;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Positive with the alcohol or controlled dangerous substance at or near the cutoff or minimum detection level; and</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Using a total number of quality control samples in an analytical run equal to at least 5 percent of the number of specimens being tested;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Verifying and documenting at least monthly the linearity and precision of each test method and procedure; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Using methods, procedures, and techniques that prevent samples and specimens from contaminating one another throughout the testing process.</text>
+                </para>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Cutoff Levels.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A licensee that offers to perform or performs job-related alcohol or controlled dangerous substances testing shall use the established cutoff levels specified in §B(8)(b) and (c) of this regulation to distinguish a positive from a negative test specimen.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Urine. A laboratory testing urine shall use the cutoff levels set forth in 49 CFR §40.85.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Blood, Saliva, and Hair.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A licensee testing blood, saliva, or hair specimens shall use the cutoff levels established by an agency of the federal government for the purpose of determining whether a specimen is positive or negative for alcohol or a controlled dangerous substance.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>If cutoff levels in blood, saliva, or hair have not been established and accepted by an agency of the federal government, a licensee shall establish and use a cutoff level for each screening test and confirmatory test performed to determine whether a specimen is negative for each controlled dangerous substance that the licensee offers to detect by a screening or confirmatory procedure.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Validation. A licensee shall ensure that the:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Laboratory maintains documented data validating each cutoff level; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Cutoff data is made available for review by the OHCQ.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>Reporting Test Results. A licensee shall ensure that a job-related laboratory test report includes:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A list of all the drug and alcohol tests that were performed on the specimen;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Positive test results only if the specimen was found positive by a confirmation test that employed a combination of:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Gas chromatography and mass spectrometry (GC/MS);</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Mass spectrometry and mass spectrometry (MS/MS);</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Gas chromatography tandem mass spectrometry (GC/MS/MS); or</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Other analytical methods that use mass spectrometry as the primary detection technique;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The value at the cutoff or detection level of each test, that is, screening test or confirmation test, or both, for alcohol or a controlled dangerous substance performed on the specimen;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>The telephone number of the laboratory that may be used by an employer or individual who was tested to obtain technical assistance for the purpose of interpreting a positive test result; and</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Except as provided in Health-General Article, §17-214(i), Annotated Code of Maryland, no information to an employer or prospective employer on:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The use of a nonprescription drug, excluding alcohol, that is not prohibited under the laws of the State; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The use of a legally prescribed drug, unless the individual tested is unable to establish that the drug was prescribed in accordance with the laws of the State.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>Proficiency Testing. A licensee shall ensure that the laboratory enrolls and continues to participate satisfactorily in a proficiency testing program that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Covers each type of job-related alcohol and controlled dangerous substance test specimen analyzed; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Has the approval of the Secretary as set forth in <cite path="10.10.05.03" doc="Code of Maryland Regulations">COMAR 10.10.05.03</cite> of this subtitle.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|.12">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.12</num>
+            <heading>Quality Control — Temporary and Mobile Laboratories: General.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. The licensee shall ensure that a health awareness test or a job-related screening test for alcohol or controlled dangerous substances at a temporary or mobile laboratory is performed:</text>
+              <para>
+                <num>(1)</num>
+                <text>Under effective supervision, quality control, and safety procedures;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Using a previously evaluated analytical system; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>For a job-related screening test for alcohol or controlled dangerous substances, only at the request of an individual authorized in <cite path="10.10.06.02" doc="Code of Maryland Regulations">COMAR 10.10.06.02</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>Limited Tests. A person may perform at a temporary or mobile laboratory only the health awareness tests defined in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite> and job-related screening tests for alcohol or controlled dangerous substances.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Health awareness and cholesterol testing may be performed at the request of the examinee. Staff who perform the tests shall have training and experience to perform testing that includes:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Operation of the analyzers per manufacturer’s recommendations;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Evaluation of the results of the quality controls;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Interpretation of the test results; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Counseling to the individual whose specimen is tested.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Supervision. A designated supervisor, knowledgeable in all aspects of the health awareness testing, shall be present at a temporary or mobile laboratory throughout a testing event to oversee testing, including compliance with all applicable requirements set forth in this chapter.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Testing Sites.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A person may not perform a health awareness test in a restaurant where food or drink is prepared, served, or consumed.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A licensee shall ensure that a temporary laboratory:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Provides space, when applicable, for counseling examinees regarding test results;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Provides space appropriate for the number of staff, analytical systems, and examinees;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Provides work space adequate to minimize problems of transportation, communication, and safety;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Provides electricity of the type and in the amount needed to operate analytical systems properly;</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Includes access to water and disinfectant supplies for routine cleaning and disinfection of the work area, equipment, and personnel;</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Contains or is within 1 minute of a telephone with access to emergency assistance by calling 911;</text>
+                  </para>
+                  <para>
+                    <num>(vii)</num>
+                    <text>Maintains levels of temperature, humidity, and ventilation to comply with manufacturer's specifications for effective operation of analytical systems;</text>
+                  </para>
+                  <para>
+                    <num>(viii)</num>
+                    <text>Is situated a minimum of 12 feet from any produce, meat, or dairy department in a food market;</text>
+                  </para>
+                  <para>
+                    <num>(ix)</num>
+                    <text>Maintains partitions, such as ropes, on at least three sides of an area where blood is drawn or processed, to prevent unsupervised access to a blood-drawing or testing area;</text>
+                  </para>
+                  <para>
+                    <num>(x)</num>
+                    <text>Employs separate receptacles for routine laboratory and special medical wastes within partitioned testing areas;</text>
+                  </para>
+                  <para>
+                    <num>(xi)</num>
+                    <text>Provides for the storage of reagents and other testing materials within temperatures recommended by the manufacturer; and</text>
+                  </para>
+                  <para>
+                    <num>(xii)</num>
+                    <text>Complies with all pertinent State laws and local ordinances.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Pre-Field Evaluation of Analytical Systems. A licensee may not employ an analytical system in a mobile or temporary laboratory until the laboratory has documented the analytical system's levels of accuracy and precision in a permanent laboratory facility.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>In-Field Quality Control. A licensee operating a mobile or temporary laboratory shall establish and maintain a continuous quality control program for an analytical system operated in that mobile or temporary laboratory.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Phlebotomy Quality Control and Safety.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A licensee employing a phlebotomist at a temporary or mobile laboratory shall ensure that the phlebotomist is trained in proper techniques for:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Specimen collection; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Infection control.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A licensee shall provide appropriate protective clothing and disposable gloves and ensure that they are used appropriately by all personnel involved in drawing or handling blood.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A phlebotomist shall wear new gloves for each examinee.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A laboratory employee shall use and clean phlebotomy devices as prescribed by the manufacturer.</text>
+                </para>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Testing Logs. A licensee shall maintain for 2 years a log identifying all:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Persons tested;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Test results; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Test dates.</text>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>Results Reporting. The licensee of a temporary or mobile laboratory:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>May give results of a health awareness test immediately following the testing directly to the individual who underwent the test; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Shall give the test results in writing stating the:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Name of the individual tested,</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Name of the laboratory performing the test,</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Name of the test,</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Date of the test, and</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Test result with appropriate interpretation or reference range consistent with current nationally recognized standards.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="10.06.06.01" doc="Code of Maryland Regulations">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07" doc="Code of Maryland Regulations">10.06.06.07</cite>.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|.13">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.13</num>
+            <heading>Quality Control — Temporary and Mobile Laboratories: Personnel Training.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. In addition to meeting other applicable requirements in this chapter, a licensee shall ensure that all laboratory personnel performing a health awareness test at a temporary or mobile laboratory are trained to perform all assigned duties.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Standards.</text>
+              <para>
+                <num>(1)</num>
+                <text>All Personnel. A licensee shall ensure that all personnel are trained to:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Keep examinees' health information confidential;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Deal with emergency situations such as fainting and anxiety reactions;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Report and document information on testing services and activities; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Dispose of special medical waste as set forth in <cite path="10.06.06.01" doc="Code of Maryland Regulations">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07" doc="Code of Maryland Regulations">10.06.06.07</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Phlebotomist. A licensee shall ensure that an individual who collects blood specimens is trained in:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Specimen collection methods; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Infection control and prevention techniques, including CDC recommendations for preventing the transmission of bloodborne pathogens in health care settings.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Operator of an Analytical System: General. A licensee shall ensure that an operator of an analytical system is trained in:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Infection control and prevention techniques, including CDC recommendations concerning the transmission of bloodborne pathogens in health care settings; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Proper use of the analytical system, including:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Analytical system operation;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>System methods used to process the specimen; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Quality control techniques, procedures, and requirements.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Operator of an Analytical System: Competency.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Obtaining Personal Competency. Before an individual may operate an analytical system without direct supervision, the individual operator shall demonstrate competency in operating the analytical system by completing:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Pre-field supervised practice that includes performing under direct supervision a minimum of ten tests of each applicable type of health awareness test; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Field testing experience that includes individual performance of directly supervised testing in the field.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Documenting Training and Competency. The licensee shall document in writing that each analytical system operator has demonstrated competency as required under this regulation.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|06|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-202.1, 17-214, and 17-504, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-11-18">Effective date: November 18, 1985 (12:23 Md. R. 2217)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06">Regulations <cite path="|10|10|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|10|06|.06" doc="Code of Maryland Regulations">.06</cite>, Physicians' Group Practice Laboratories in Maryland, repealed effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Regulations <cite path="|10|10|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|10|06|.28" proof="needed" doc="Code of Maryland Regulations">.28</cite>, Physician Office and Other Point-of-Care Laboratories, adopted effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.08|C." proof="needed" doc="Code of Maryland Regulations">Regulation .08C</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.09|B." proof="needed" doc="Code of Maryland Regulations">Regulation .09B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.25" proof="needed" doc="Code of Maryland Regulations">Regulation .25</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Physician Office and Other Point-of-Care Laboratories, repealed and new chapter, Medical Laboratories—Quality Assurance, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.02|C." doc="Code of Maryland Regulations">Regulation .02C</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-01-13"><cite path="|10|10|06|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); January 13, 2011 (38:1 Md. R. 11)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05-1" doc="Code of Maryland Regulations">Regulation .05-1</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.06" doc="Code of Maryland Regulations">Regulation .06</cite> repealed effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.08|B." doc="Code of Maryland Regulations">Regulation .08B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.09" doc="Code of Maryland Regulations">Regulation .09</cite> repealed effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.10|B." doc="Code of Maryland Regulations">Regulation .10B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.12" doc="Code of Maryland Regulations">Regulation .12</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.12|B." doc="Code of Maryland Regulations">Regulation .12B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.13|B." doc="Code of Maryland Regulations">Regulation .13B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.14|B." doc="Code of Maryland Regulations">Regulation .14B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.15" doc="Code of Maryland Regulations">Regulation .15</cite> amended effective June 1, 2009 (36:11 Md. R. 787); April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.15|B." doc="Code of Maryland Regulations">Regulation .15B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16" proof="needed" doc="Code of Maryland Regulations">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A." proof="needed" doc="Code of Maryland Regulations">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|07|.07">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.07</num>
+            <heading>Permitted Laboratory Other than POL or POCL — Testing Personnel.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A permitted laboratory other than a POL or POCL shall employ or engage testing personnel, sufficient in number to perform testing for the volume and complexity of testing performed, who meet the qualifications and carry out the responsibilities set forth in this regulation.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Standards — General.</text>
+              <para>
+                <num>(1)</num>
+                <text>Personnel Qualifications. An individual performing one or more laboratory tests shall meet the applicable qualifications set forth in 42 CFR §493.1423.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Responsibilities. Testing personnel shall carry out the responsibilities set forth in 42 CFR §493.1425.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Standards — Cytotechnologist.</text>
+              <para>
+                <num>(1)</num>
+                <text>Personnel Qualifications. For the specialty of cytology, a licensee shall employ the services of cytotechnologists who meet the qualifications set forth in 42 CFR §§493.1483.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Responsibilities. A cytotechnologist shall carry out the responsibilities set forth in 42 CFR §493.1485.</text>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Standards — Blood Gas Analysis — Personnel Qualifications. Personnel performing blood gas analyses shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Meet the standards set forth in 42 CFR §493.1489; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Complete a 1-year certificate program in respiratory care.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|07|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-203, 17-206, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|07|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|07|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|07|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|07|.05|B." doc="Code of Maryland Regulations">Regulation .05B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|07|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|08|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Departmental Actions — General.</heading>
+            <para>
+              <num>A.</num>
+              <text>Deficiency Posing Immediate Jeopardy.</text>
+              <para>
+                <num>(1)</num>
+                <text>If a laboratory's deficiency poses immediate jeopardy to personal or public health or safety, the Secretary shall take one or more of the actions listed in §A(2) and (3) of this regulation.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Initial Actions. When a deficiency involving immediate jeopardy is first identified, the Secretary shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Require the laboratory to take immediate action to remove the jeopardy; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Impose:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A principal sanction after giving the laboratory at least 24 hours notice; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>One or more alternative sanctions.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Follow-up Actions. If the OHCQ finds in a follow-up survey of a laboratory under an alternative sanction that the laboratory has not eliminated the immediate jeopardy, the Secretary shall impose a principal sanction after giving the laboratory at least 24 hours notice.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Deficiency Not Posing Immediate Jeopardy.</text>
+              <para>
+                <num>(1)</num>
+                <text>If a laboratory's deficiency does not pose immediate jeopardy to personal or public health or safety, the Secretary may take one or more of the actions listed in §B(2) — (4) of this regulation.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Initial Actions. When a deficiency is first identified, the Secretary may impose one or more alternative sanctions or a principal sanction.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Unsatisfactory Proficiency Testing. If a laboratory exhibits unsatisfactory proficiency testing performance, as set forth in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite>, the Secretary may impose the training and technical assistance requirements set forth in <cite path="|10|10|08|.04" doc="Code of Maryland Regulations">Regulation .04 of this chapter</cite> as a directed plan of correction, as well as any other sanction.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Follow-up Actions. If the OHCQ finds in a follow-up survey that a laboratory has not corrected a deficiency within 30 days after it was identified, the Secretary may:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Impose, or continue if already imposed, one or more sanctions;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Conduct one or more on-site visits to evaluate progress in correcting a deficiency; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Conduct an additional follow-up survey to determine whether all corrections have been made.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Duration of a Sanction. A sanction shall remain in force until:</text>
+              <para>
+                <num>(1)</num>
+                <text>A laboratory corrects the deficiency; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A laboratory's license is revoked.</text>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Lifting of a Sanction.</text>
+              <para>
+                <num>(1)</num>
+                <text>General Rule. The Secretary may not lift a sanction until regulatory compliance is verified.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Credible Allegation of Compliance. When a sanctioned laboratory submits a credible allegation of compliance, the Secretary shall:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Determine compliance on the basis of the evidence submitted by the laboratory in its allegation;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Conduct a follow-up survey to verify whether the laboratory has achieved compliance; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Both §D(2)(a) and (b) of this regulation.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>If a laboratory does not correct all deficiencies within 30 days after imposition of a sanction, the Secretary may initiate action to suspend or revoke the license.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|08|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-206, 17-210, 17-211, and 17-509, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite>, B amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|08|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-03-27"><cite path="|10|10|08|.05" doc="Code of Maryland Regulations">Regulation .05</cite> adopted effective March 27, 2006 (33:6 Md. R. 578)</annotation>
+          </annotations>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|12|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>“CDC” means the federal Centers for Disease Control and Prevention.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“CLIA” means the federal Clinical Laboratory Improvement Amendments of 1988.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Department” means the Maryland Department of Health.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Primary standard” means a general comprehensive standard or set of standards as defined in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite>.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>“Public health testing program” means a medical laboratory as defined in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite> that is affiliated or collaborating with the Department for the purpose of offering or performing rapid HIV antibody testing or rapid hepatitis C virus testing approved by the Secretary.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>“Public health testing license” means a license as defined in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite> issued by the Secretary authorizing the director of a public health HIV or hepatitis C (HCV) testing program to offer or perform rapid HIV tests or rapid hepatitis C virus tests.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Quality Assessment Plan.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Quality assessment plan” means a planned system of step-by-step activities to ensure that:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Testing is being carried out according to the manufacturer's instructions;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Results are accurate and reliable; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Problems and mistakes are found and corrected to avoid adverse outcomes.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>"Quality assessment plan" includes the ongoing activities that monitor, review, evaluate, and improve the overall quality of the procedures and processes before, during, and after a test is performed.</text>
+                </para>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Quality Control.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Quality control” means the policies and procedures defined in <cite path="10.10.01.03|B." doc="Code of Maryland Regulations">COMAR 10.10.01.03B</cite> that monitor and evaluate the analytical or test performance phase of the testing process.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>“Quality control” includes the operational techniques, tasks, or activities used to find and correct problems that might occur in the test system.</text>
+                </para>
+              </para>
+              <para>
+                <num>(8-1)</num>
+                <text>“Rapid hepatitis C virus test” means a public health hepatitis test that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Uses whole blood as the specimen to detect hepatitis C antibodies;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is waived under the CLIA program; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Provides a test result while the individual being tested is waiting.</text>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>“Rapid HIV antibody test” means a public health HIV test that:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Uses whole blood or oral fluid as the specimen to detect HIV antibodies;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Is waived under the CLIA program; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Provides a test result while the individual being tested is waiting.</text>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>“Secretary” means the Secretary of Health.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|12|.04">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Public Health Testing License for Rapid HIV Antibody Testing and HCV Testing.</heading>
+            <para>
+              <num>A.</num>
+              <text>A person shall obtain a public health testing license before offering or performing rapid HIV antibody testing or rapid hepatitis C virus testing.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>A person may not:</text>
+              <para>
+                <num>(1)</num>
+                <text>Offer or perform rapid HIV antibody testing or hepatitis C virus testing without obtaining a public health testing license issued under this chapter; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Transfer the public health testing license to another person.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>The Secretary may issue a public health testing license under this chapter if the Secretary determines that the public health testing program meets the requirements of this chapter.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>The Department shall issue a public health testing license that:</text>
+              <para>
+                <num>(1)</num>
+                <text>States that the license is limited to the performance of rapid HIV antibody testing and rapid hepatitis C virus testing; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Lists the:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Name of the director;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Name of the public health testing program; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Address of the public health testing program.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>To obtain, maintain, or renew a public health testing license, a person shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Make records and reports available to the Department;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Possess a valid CLIA Certificate of Waiver from the U.S. Health and Human Services' Centers for Medicare and Medicaid Services;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Submit to the Department:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>When seeking an initial license or license renewal, a quality assessment plan that describes the testing activities;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The location of all testing sites; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The name and address of the laboratory that will perform confirmatory tests for the person operating the public health testing program; and</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Submit amendments or changes to the public health testing program's quality assessment plan to the Department and obtain the Department's approval prior to implementation.</text>
+              </para>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>The Department shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Review each submitted quality assessment plan to determine compliance with the requirements of this chapter;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Conduct on-site surveys of public health testing programs:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>To investigate a complaint; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Periodically to determine compliance with this chapter; and</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Approve the plan for implementation by the public health testing program if the plan is in compliance with the requirements of this chapter.</text>
+              </para>
+            </para>
+            <para>
+              <num>G.</num>
+              <text>The Secretary may impose one or more sanctions as provided in <cite path="10.10.08.01" doc="Code of Maryland Regulations">COMAR 10.10.08.01</cite>—.03 if the Secretary determines that the public health testing program does not meet the standards of this chapter.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|12|.07">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.07</num>
+            <heading>Standard Operating Procedures Manual.</heading>
+            <para>
+              <num>A.</num>
+              <text>Primary Standard. A person seeking or holding a public health testing license shall develop and maintain a standard operating procedures manual (SOPM) that is available to and followed by the public health testing program personnel.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>A person seeking or holding a public health testing license shall ensure that the SOPM includes the step-by-step instructions for the operations, tasks, and techniques occurring before, during, and after testing, including:</text>
+              <para>
+                <num>(1)</num>
+                <text>How to set up the testing site;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Use of quality assessment plan components, policies, and procedures;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The test manufacturer's product inserts and instructions;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Standard precautions for bloodborne pathogens;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Use of gloves and other personal protective equipment;</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Handling and disposal of biohazardous waste;</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>How to provide testing information to an individual before the individual is tested;</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>How to counsel an individual receiving screening test results; and</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>How to refer an individual who has been tested for HIV antibodies or hepatitis C antibodies, or both, for services as prescribed in <cite path="10.18.08.10|C." doc="Code of Maryland Regulations">COMAR 10.18.08.10C</cite>.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|12|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-03-14">Regulations <cite path="|10|10|12|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|10|12|.10" doc="Code of Maryland Regulations">.10</cite> adopted as an emergency provision effective January 19, 2005 (32:3 Md. R. 287); adopted permanently effective March 14, 2005 (32:5 Md. R. 580)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.01|A." doc="Code of Maryland Regulations">Regulation .01A</cite>, B amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|12|.04|E." doc="Code of Maryland Regulations">Regulation .04E</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.06|D." doc="Code of Maryland Regulations">Regulation .06D</cite>, E amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite> amended effective April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+          </annotations>
+        </codify:replace>
       </container>
       <container>
         <num>25-184-F</num>
