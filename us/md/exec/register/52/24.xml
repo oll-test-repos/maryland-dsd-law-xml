@@ -348,7 +348,7 @@
               </para>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|3-1001">3-1001</cite>, <cite doc="Md. Code" path="gnr|3-1006">3-1006</cite>, and <cite doc="Md. Code" path="gnr|3-1009">3-1009</cite>, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|3-1001">3-1001</cite>, <cite doc="Md. Code" path="gnr|3-1006">3-1006</cite>, and <cite doc="Md. Code" path="gnr|3-1009">3-1009</cite>, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1197)</annotation>
             </annotations>
           </container>
@@ -5483,18 +5483,18 @@
                   <para>
                     <num>(c)</num>
                     <text>“Hospital services” does not include:</text>
-                  </para>
-                  <para>
-                    <num proof="done">(a)</num>
-                    <text>Outpatient renal dialysis services;</text>
-                  </para>
-                  <para>
-                    <num>(b)</num>
-                    <text>Outpatient services provided at a limited service hospital as defined in Health-General Article, §19–301, Annotated Code of Maryland except for emergency services; or</text>
-                  </para>
-                  <para>
-                    <num>(c)</num>
-                    <text>Physician services that are billed separately.</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Outpatient renal dialysis services;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Outpatient services provided at a limited service hospital as defined in Health-General Article, §19–301, Annotated Code of Maryland except for emergency services; or</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Physician services that are billed separately.</text>
+                    </para>
                   </para>
                 </para>
                 <para>
@@ -7261,7 +7261,7 @@
               <text>This chapter does not diminish any obligations of a debt collector, as defined under <cite path="|10|37|13|.01" proof="needed" doc="Code of Maryland Regulations">Regulation .01 of this chapter</cite>, under other applicable laws or regulations, including, without limitation, any requirement for the debt collector to obtain a collection agency license from the State Collection Agency Licensing Board in accordance with <cite doc="Md. Code" path="gbr">Business Regulation Article, Title 7, Subtitle 3, Annotated Code of Maryland</cite>.</text>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-214.2, 19-214.3, 19-207, and 19-219, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-214.2, 19-214.3, 19-207, and 19-219, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1198)</annotation>
             </annotations>
           </container>
@@ -7374,8 +7374,7 @@
                 </para>
                 <para>
                   <num>(2)</num>
-                  <text>“Maryland-grown agricultural product” means any product produced or cultivated on a farm or vineyard in the State</text>
-                  <text>other than cannabis or any other product containing tetrahydrocannabinol as defined in Alcoholic Beverages and Cannabis Article, §36-1102, Annotated Code of Maryland.</text>
+                  <text>“Maryland-grown agricultural product” means any product produced or cultivated on a farm or vineyard in the State other than cannabis or any other product containing tetrahydrocannabinol as defined in Alcoholic Beverages and Cannabis Article, §36-1102, Annotated Code of Maryland.</text>
                 </para>
                 <para>
                   <num>(3)</num>
@@ -7458,7 +7457,7 @@
               </para>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gag|2-103">Agriculture Article, §2-103</cite>; and Alcoholic Beverages and Cannabis Article, §2-206; Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gag|2-103">Agriculture Article, §2-103</cite>; and Alcoholic Beverages and Cannabis Article, §2-206; Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1199)</annotation>
             </annotations>
           </container>
@@ -7767,7 +7766,7 @@
               </para>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-1806">8-1806</cite>, <cite doc="Md. Code" path="gnr|8-1808">8-1808</cite>(c), <cite doc="Md. Code" path="gnr|8-1809">8-1809</cite>, <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>, and <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>.1, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-1806">8-1806</cite>, <cite doc="Md. Code" path="gnr|8-1808">8-1808</cite>(c), <cite doc="Md. Code" path="gnr|8-1809">8-1809</cite>, <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>, and <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>.1, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1199)</annotation>
             </annotations>
           </container>
