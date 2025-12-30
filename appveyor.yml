@@ -41,7 +41,7 @@ before_build:
   # Dump all environment variables to 'env.list' file, this file will be used for starting container.
   - sh: |
       for var in $(declare -p | grep "^declare \-" | cut -d' ' -f3-); do
-        echo "${var}" >> env.list
+        echo $var >> env.list
       done
 
 build_script:
