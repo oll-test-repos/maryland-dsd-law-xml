@@ -47,7 +47,7 @@
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
-  <collection name="editorial-actions"/>
+  <collection name="editorial-actions" display="false"/>
   <annotations>
     <annotation>
       <subheading>Code of Maryland Regulations</subheading>
