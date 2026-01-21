@@ -11,11 +11,7 @@ init:
   # Select the correct image and container name
   - sh: |
       IMAGE_NAME="ghcr.io/openlawlibrary/platform/archive-automation";
-      if [[ "${IS_DEVELOPMENT}" == "True" ]]; then
-        CONTAINER_NAME="oll-archive-automation-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
-      else
-        CONTAINER_NAME="oll-archive-automation-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
-      fi
+      CONTAINER_NAME="oll-archive-automation-${APPVEYOR_PROJECT_SLUG}-${APPVEYOR_BUILD_NUMBER}";
   # SELECT THE IMAGE TAG
   - sh: |
       if [[ -n "${DOCKER_IMG_TAG}" ]]; then
