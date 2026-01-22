@@ -48,7 +48,9 @@
     <xi:include href="./us/md/exec/register/52/index.xml"/>
     <xi:include href="./us/md/exec/register/53/index.xml"/>
   </collection>
-  <collection name="editorial-actions" display="false"/>
+  <collection name="editorial-actions" display="false">
+    <xi:include href="./editorial-actions/2026-01-22.xml"/>
+  </collection>
   <annotations>
     <annotation>
       <subheading>Code of Maryland Regulations</subheading>
