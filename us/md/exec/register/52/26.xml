@@ -17,7 +17,7 @@
         <prefix>Executive Order</prefix>
         <num>.26</num>
         <heading>State Employee Risk Management Administration</heading>
-        <text class="center">(Rescinds Executive Order <cite path="01.01.2008.03" proof="needed">01.01.2008.03</cite>)</text>
+        <text class="center">(Rescinds Executive Order <cite doc="Code of Maryland Regulations" path="01.01.2008.03">01.01.2008.03</cite>)</text>
         <para>
           <num>A.</num>
           <text>Program Established. There is a State Employee Risk Management Administration (hereinafter, "SERMA") established that addresses workplace safety and workers' compensation risk management and loss control throughout Maryland State government. It shall have the following structure:</text>
@@ -262,11 +262,16 @@
           <num>G.</num>
           <text>This Executive Order on managing occupational injuries and illnesses in Maryland State Government shall be interpreted and implemented in a manner consistent with the efforts of established State health and safety regulations. Department and agency heads shall utilize existing management functions and programs to expand and improve management of risks within their respective units.</text>
         </para>
-        <annotations>
-          <annotation effective="2025-12-09">Effective Date: December 9, 2025.</annotation>
-        </annotations>
       </section>
-    </codify:insert>  
+    </codify:insert>
+    <codify:replace history="false" doc="Code of Maryland Regulations" path="01|01|2008|.03">
+      <section type="eo">
+        <prefix>Executive Order</prefix>
+        <num>.03</num>
+        <heading>State Employee Risk Management Administration (Rescinds Executive Order 01.01.2003.51)</heading>
+        <reason>Rescinded</reason>  
+      </section>
+    </codify:replace>
   </container>
   <container name="regulations">
     <container name="emergency">

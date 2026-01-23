@@ -539,9 +539,6 @@
             </para>
           </para>
         </para>
-        <annotations>
-          <annotation effective="2025-12-19">Effective Date: December 19, 2025</annotation>
-        </annotations>
       </section>
     </codify:insert>
     <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025">
@@ -629,9 +626,6 @@
             <text>If any provision of this Executive Order or its application to any person, entity, or circumstance is held invalid by any court of competent jurisdiction, all other provisions or applications of the Executive Order shall remain in effect to the extent possible without the invalid provision or application. To achieve this purpose, the provisions of this Executive Order are severable.</text>
           </para>
         </para>
-        <annotations>
-          <annotation effective="2025-12-19">Effective Date: December 19, 2025.</annotation>
-        </annotations>
       </section>
     </codify:insert>
     <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025">
@@ -643,7 +637,7 @@
           <num>1.</num>
           <para>
             <num>(a)</num>
-            <text><strong>DISABILITY RIGHTS MARYLAND, INC., DOING BUSINESS AS THE</strong> [The] Maryland Disabilities Law Center, Inc., a private, non-profit corporation incorporated under Maryland law, <strong>WAS DESIGNATED BY EXECUTIVE ORDERS <cite path="01.01.1977.07" proof="needed">01.01.1977.07</cite> AND <cite path="01.01.1986.12" proof="needed">01.01.1986.12</cite> AND CONTINUED TO BE</strong> [is] designated as the official agency, for purposes of <strong>42 U.S.C. §15041</strong><strong><em> ET. SEQ</em></strong><em>. </em>[Public Law 94-103], responsible for the implementation of the State system for the protection and advocacy of the rights of <strong>INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES</strong> [the developmentally disabled].</text>
+            <text><strong>DISABILITY RIGHTS MARYLAND, INC., DOING BUSINESS AS THE</strong> [The] Maryland Disabilities Law Center, Inc., a private, non-profit corporation incorporated under Maryland law, <strong>WAS DESIGNATED BY EXECUTIVE ORDERS <cite doc="Code of Maryland Regulations" path="01.01.1977.07">01.01.1977.07</cite> AND <cite doc="Code of Maryland Regulations" path="01.01.1986.12">01.01.1986.12</cite> AND CONTINUED TO BE</strong> [is] designated as the official agency, for purposes of <strong>42 U.S.C. §15041</strong><strong><em> ET. SEQ</em></strong><em>. </em>[Public Law 94-103], responsible for the implementation of the State system for the protection and advocacy of the rights of <strong>INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES</strong> [the developmentally disabled].</text>
           </para>
           <para>
             <num>(b)</num>
@@ -660,11 +654,34 @@
           <num>3.</num>
           <text>[2.] The designation of <strong>DISABILITY RIGHTS MARYLAND, INC.,</strong> [the Maryland Disabilities Law Center, Inc.,] as the official agency for purposes of <strong>42 U.S.C §15041 </strong><strong><em>ET. SEQ</em></strong><strong>.</strong> [Public Law 94-103] shall continue unless amended, altered, or withdrawn by subsequent Executive Order.</text>
         </para>
-        <annotations>
-          <annotation effective="2025-12-19">Effective Date: December 19, 2025.</annotation>
-        </annotations>
       </section>
     </codify:insert>
+    <codify:replace history="false" doc="Code of Maryland Regulations" path="01|01|1986|.12">
+      <section type="eo">
+        <prefix>Executive Order</prefix>
+        <num>.12</num>
+        <heading>INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES</heading>
+        <para>
+          <num>1.</num>
+          <para>
+            <num>(a)</num>
+            <text>Disability Rights Maryland, Inc., doing business as Maryland Disabilities Law Center, Inc., a private, non-profit corporation incorporated under Maryland law, was designated by Executive Orders <cite doc="Code of Maryland Regulations" path="01.01.1977.07">01.01.1977.07</cite> and <cite doc="Code of Maryland Regulations" path="01.01.1986.12">01.01.1986.12</cite> and continued to be designated as the official agency, for purposes of 42 U.S.C. §15041 et. seq<strong><em>.</em></strong>, responsible for the implementation of the State system for the protection and advocacy of the rights of individuals with developmental disabilities.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Disability Rights Maryland, Inc., shall perform the functions, duties, and responsibilities authorized to be performed or specifically delegated to it by the "State of Maryland Plan for a System to Protect the Individual Rights of and to Advocate for Persons with Developmental Disabilities under 42 U.S.C. §15041 et. seq."</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>After Disability Rights Maryland’s designation as the protection and advocacy system for the State of Maryland in Executive Orders <cite doc="Code of Maryland Regulations" path="01.01.1977.07">01.01.1977.07</cite> and <cite doc="Code of Maryland Regulations" path="01.01.1986.12">01.01.1986.12</cite>, Congress established additional programs to create and fund legal advocacy programs for additional categories of individuals with disabilities and issue areas. Based on the designation in paragraph l(a) of this order, Disability Rights Maryland, Inc. is the eligible system, as defined in 42 U.S.C. §10802(2) and 29 U.S.C. §794e(m)(i), responsible for implementation of the state system for Protection and Advocacy of the Rights of Individuals with Mental Illness (PAIMI) and Protection and Advocacy of Individual Rights (PAIR).</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The designation of Disability Rights Maryland, Inc., as the official agency for purposes of 42 U.S.C. §15041 et. seq. shall continue unless amended, altered, or withdrawn by subsequent Executive Order.</text>
+        </para>
+      </section>
+    </codify:replace>
   </container>
   <container name="regulations">
     <container name="final">
