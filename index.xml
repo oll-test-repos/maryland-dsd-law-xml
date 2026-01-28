@@ -49,6 +49,7 @@
     <xi:include href="./us/md/exec/register/50/index.xml"/>
   </collection>
   <collection name="editorial-actions">
+    <xi:include href="./editorial-actions/2026-01-03.xml"/>
     <xi:include href="./editorial-actions/2026-01-02.xml"/>
     <xi:include href="./editorial-actions/2026-01-21.xml"/>
     <xi:include href="./editorial-actions/2025-12-07.xml"/>

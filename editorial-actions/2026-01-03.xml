@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Editor Action 2026-01-03">
+  <meta>
+    <effective>2026-01-03</effective>
+    <history>
+      <adopted>2026-01-03</adopted>
+    </history>
+  </meta>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="05|01|01|.01">
+    <section>
+      <prefix>Regulation</prefix>
+      <num>.01</num>
+      <heading>General.</heading>
+      <text>This chapter contains procedures for administrative hearings in contested cases. These procedures are required by the Maryland Administrative Procedure Act, <cite doc="Md. Code" path="gsg|10-201">State Government Article, §10-201 </cite>et seq., Annotated Code of Maryland, and apply to all contested cases within the Department. CHANGE HERE!</text>
+    </section>
+  </codify:replace>
+</document>
